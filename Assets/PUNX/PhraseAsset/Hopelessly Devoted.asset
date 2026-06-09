@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Hopelessly Devoted
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: 56bda92441c782d429f94ac5b1577f33, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 44.78587
+    EndPosition: 48.567455
+    Name: Timing 5
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 634
+      y: 21
+      width: 51
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 48.86405
+    EndPosition: 53.757874
+    Name: Timing 6
+    Text: You know, I'm just a fool who's willing
+    Rectangle:
+      serializedVersion: 2
+      x: 689
+      y: 21
+      width: 66.00006
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 55.335712
+    EndPosition: 57.02042
+    Name: Timing 7
+    Text: 'To sit around and '
+    Rectangle:
+      serializedVersion: 2
+      x: 776.2794
+      y: 21
+      width: 22.720642
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 57.154194
+    EndPosition: 57.68776
+    Name: Timing 13
+    Text: wait
+    Rectangle:
+      serializedVersion: 2
+      x: 800.80414
+      y: 21
+      width: 7.195923
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 58.093468
+    EndPosition: 59.98637
+    Name: Timing 14
+    Text: for you
+    Rectangle:
+      serializedVersion: 2
+      x: 813.47156
+      y: 21
+      width: 25.528442
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 61.542244
+    EndPosition: 63.471363
+    Name: Timing 8
+    Text: But baby, can't you
+    Rectangle:
+      serializedVersion: 2
+      x: 859.98315
+      y: 21
+      width: 26.016846
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 63.76796
+    EndPosition: 64.731895
+    Name: Timing 9
+    Text: see
+    Rectangle:
+      serializedVersion: 2
+      x: 890.00006
+      y: 21
+      width: 13
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 64.81555
+    EndPosition: 70.2189
+    Name: Timing 10
+    Text: There's nothing else for me to do?
+    Rectangle:
+      serializedVersion: 2
+      x: 904.1283
+      y: 21
+      width: 72.871704
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 71.77603
+    EndPosition: 76.818146
+    Name: Timing 11
+    Text: I'm hopelessly devoted to you
+    Rectangle:
+      serializedVersion: 2
+      x: 998.00006
+      y: 21
+      width: 67.99994
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 78.89431
+    EndPosition: 80.82218
+    Name: Timing 12
+    Text: But now
+    Rectangle:
+      serializedVersion: 2
+      x: 1094
+      y: 21
+      width: 26
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 81.044624
+    EndPosition: 84.158875
+    Name: Timing 8
+    Text: there's nowhere to hide
+    Rectangle:
+      serializedVersion: 2
+      x: 1123
+      y: 21
+      width: 42
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 84.307175
+    EndPosition: 87.421425
+    Name: Timing 9
+    Text: Since you pushed my love aside
+    Rectangle:
+      serializedVersion: 2
+      x: 1167
+      y: 21
+      width: 42.000122
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 87.64923
+    EndPosition: 90.535675
+    Name: Timing 10
+    Text: I'm out of my head
+    Rectangle:
+      serializedVersion: 2
+      x: 1212.0724
+      y: 21
+      width: 38.927734
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 90.98057
+    EndPosition: 96.393425
+    Name: Timing 11
+    Text: Hopelessly devoted to you
+    Rectangle:
+      serializedVersion: 2
+      x: 1257.0001
+      y: 21
+      width: 72.99988
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 97.14007
+    EndPosition: 104.1049
+    Name: Timing 15
+    Text: Hopelessly devoted to you
+    Rectangle:
+      serializedVersion: 2
+      x: 1340.0696
+      y: 21
+      width: 93.93042
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 106.44141
+    EndPosition: 114.33743
+    Name: Timing 16
+    Text: Hopelessly devoted to you
+    Rectangle:
+      serializedVersion: 2
+      x: 1465.5111
+      y: 21
+      width: 106.48889
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 115.2734
+    EndPosition: 118.26732
+    Name: Timing 17
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 1584.6228
+      y: 21
+      width: 40.377197
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a73eab7966fc1a4492d0989e599d3ff, type: 3}
+  m_Name: Don't Stop Believing
+  m_EditorClassIdentifier: Assembly-CSharp::KaraokeGame.SongData
+  title: Don't Stop Believing
+  artist: Journey
+  audioClip: {fileID: 8300000, guid: 3b006e17ef78ea745a92771c758751be, type: 3}
+  lyricsTimingAsset: {fileID: 11400000, guid: 04ad0f6f20cdb8f48baa838892a2080f, type: 2}
+  missingLineIndices: 03000000080000000c000000
+  correctAnswers:
+  - perfume
+  - boulevard
+  - people
+  contextLineIndices: 02000000070000000b000000

@@ -1587,8 +1587,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 756, y: -272.85}
-  m_SizeDelta: {x: 1535.17, y: 545.71}
+  m_AnchoredPosition: {x: 754.36, y: -261.16}
+  m_SizeDelta: {x: 1474.82, y: 522.32}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &182219511
 GameObject:
@@ -8799,6 +8799,10 @@ MonoBehaviour:
   adminCorrectAnswerText: {fileID: 1105838975}
   adminFinalPanel: {fileID: 2002179219}
   adminFinalText: {fileID: 397006419}
+  adminSongSelectPanel: {fileID: 0}
+  songListContainer: {fileID: 0}
+  songButtonPrefab: {fileID: 0}
+  playerWaitingPanel: {fileID: 0}
   contextWordsPerSlot: 4
   wordFillCurve:
     serializedVersion: 2
@@ -11640,8 +11644,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -10.11, y: 77.54345}
-  m_SizeDelta: {x: 1491.77, y: 445.31}
+  m_AnchoredPosition: {x: -1.02, y: 30.78}
+  m_SizeDelta: {x: 1509.96, y: 538.86}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2131325419
 MonoBehaviour:

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a73eab7966fc1a4492d0989e599d3ff, type: 3}
+  m_Name: Close To You
+  m_EditorClassIdentifier: Assembly-CSharp::KaraokeGame.SongData
+  title: Close To You
+  artist: Carpenters
+  audioClip: {fileID: 8300000, guid: 9736833bd5237b042a87dc2ad3f94eef, type: 3}
+  lyricsTimingAsset: {fileID: 11400000, guid: d61d1243502e4d8418f36561a88e9861, type: 2}
+  missingLineIndices: 050000000a0000000c000000
+  correctAnswers:
+  - angels
+  - moon dust
+  - gold
+  contextLineIndices: 04000000090000000b000000

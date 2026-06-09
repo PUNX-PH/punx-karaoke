@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Close To You
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: 9736833bd5237b042a87dc2ad3f94eef, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 52.45975
+    EndPosition: 55.542595
+    Name: Timing 1
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 1323.9594
+      y: 21
+      width: 76.04065
+      height: 280.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 56.007347
+    EndPosition: 60.731976
+    Name: Timing 2
+    Text: Just like me, they long to be
+    Rectangle:
+      serializedVersion: 2
+      x: 1411.4635
+      y: 21
+      width: 116.5365
+      height: 280.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 61.551315
+    EndPosition: 63.732086
+    Name: Timing 3
+    Text: Close to you
+    Rectangle:
+      serializedVersion: 2
+      x: 1548.2097
+      y: 21
+      width: 53.790283
+      height: 280.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 66.97545
+    EndPosition: 69.20526
+    Name: Timing 4
+    Text: On the day that ypu were born
+    Rectangle:
+      serializedVersion: 2
+      x: 1682
+      y: 21
+      width: 55
+      height: 280.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 69.32689
+    EndPosition: 69.61068
+    Name: Timing 5
+    Text: the
+    Rectangle:
+      serializedVersion: 2
+      x: 1740.0001
+      y: 21
+      width: 6.999878
+      height: 280.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 69.729385
+    EndPosition: 70.016106
+    Name: Timing 6
+    Text: Angels
+    Rectangle:
+      serializedVersion: 2
+      x: 1749.928
+      y: 21
+      width: 7.0721436
+      height: 280.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 70.137726
+    EndPosition: 71.67833
+    Name: Timing 7
+    Text: got together
+    Rectangle:
+      serializedVersion: 2
+      x: 1760
+      y: 21
+      width: 38.000122
+      height: 280.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 71.926895
+    EndPosition: 73.70543
+    Name: Timing 8
+    Text: and decided to create
+    Rectangle:
+      serializedVersion: 2
+      x: 1804.1312
+      y: 21
+      width: 43.868774
+      height: 280.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 73.883354
+    EndPosition: 76.259575
+    Name: Timing 9
+    Text: a dream come true
+    Rectangle:
+      serializedVersion: 2
+      x: 1852.3887
+      y: 21
+      width: 58.61133
+      height: 280.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 76.78662
+    EndPosition: 78.12451
+    Name: Timing 10
+    Text: 'so they sprinkled '
+    Rectangle:
+      serializedVersion: 2
+      x: 1924
+      y: 21
+      width: 33.000122
+      height: 280.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 78.27993
+    EndPosition: 78.73264
+    Name: Timing 11
+    Text: moon dust
+    Rectangle:
+      serializedVersion: 2
+      x: 1960.8336
+      y: 21
+      width: 11.166504
+      height: 280.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 79.00529
+    EndPosition: 79.948906
+    Name: Timing 12
+    Text: in your hair of
+    Rectangle:
+      serializedVersion: 2
+      x: 1978.7251
+      y: 21
+      width: 23.275024
+      height: 280.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 80.15161
+    EndPosition: 80.67866
+    Name: Timing 13
+    Text: gold
+    Rectangle:
+      serializedVersion: 2
+      x: 2007
+      y: 21
+      width: 13
+      height: 280.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 80.88136
+    EndPosition: 84.65178
+    Name: Timing 14
+    Text: And starlight in your eyes of blue
+    Rectangle:
+      serializedVersion: 2
+      x: 2024.9999
+      y: 21
+      width: 93.00012
+      height: 280.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 85.25991
+    EndPosition: 88.01677
+    Name: Timing 15
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 2133
+      y: 21
+      width: 68
+      height: 280.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

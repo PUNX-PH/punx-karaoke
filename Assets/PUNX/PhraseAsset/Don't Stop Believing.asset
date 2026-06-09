@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Don't Stop Believing
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: 3b006e17ef78ea745a92771c758751be, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 65.85053
+    EndPosition: 75.77322
+    Name: Timing 1
+    Text: 3 2 1
+    Rectangle:
+      serializedVersion: 2
+      x: 560.6854
+      y: 21
+      width: 79.96625
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 76.503716
+    EndPosition: 79.16921
+    Name: Timing 2
+    Text: A singer in a smokey room
+    Rectangle:
+      serializedVersion: 2
+      x: 646.53876
+      y: 21
+      width: 21.48108
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 80.44271
+    EndPosition: 82.24684
+    Name: Timing 3
+    Text: A smell of wine and cheap
+    Rectangle:
+      serializedVersion: 2
+      x: 678.2829
+      y: 21
+      width: 14.539368
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 82.40603
+    EndPosition: 83.78565
+    Name: Timing 14
+    Text: perfume
+    Rectangle:
+      serializedVersion: 2
+      x: 694.1051
+      y: 21
+      width: 11.118347
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 84.41395
+    EndPosition: 87.02246
+    Name: Timing 4
+    Text: For a smile they can share the night
+    Rectangle:
+      serializedVersion: 2
+      x: 710.2868
+      y: 21
+      width: 21.02185
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 87.23471
+    EndPosition: 91.479706
+    Name: Timing 5
+    Text: It goes on and on and on and on
+    Rectangle:
+      serializedVersion: 2
+      x: 733.01917
+      y: 21
+      width: 34.210144
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 91.816284
+    EndPosition: 95.08796
+    Name: Timing 6
+    Text: Strangers waitin'
+    Rectangle:
+      serializedVersion: 2
+      x: 769.9418
+      y: 21
+      width: 26.366272
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 96.89208
+    EndPosition: 97.79414
+    Name: Timing 7
+    Text: Up and down the
+    Rectangle:
+      serializedVersion: 2
+      x: 810.84735
+      y: 21
+      width: 7.2696533
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 97.98701
+    EndPosition: 99.27989
+    Name: Timing 8
+    Text: boulevard
+    Rectangle:
+      serializedVersion: 2
+      x: 819.67126
+      y: 21
+      width: 10.419312
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 99.70439
+    EndPosition: 101.40239
+    Name: Timing 9
+    Text: Their shadows
+    Rectangle:
+      serializedVersion: 2
+      x: 833.5116
+      y: 21
+      width: 13.684021
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 101.57989
+    EndPosition: 105.700455
+    Name: Timing 10
+    Text: searchin' in the night
+    Rectangle:
+      serializedVersion: 2
+      x: 848.6261
+      y: 21
+      width: 33.207397
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 108.00889
+    EndPosition: 109.839325
+    Name: Timing 11
+    Text: Streetlights
+    Rectangle:
+      serializedVersion: 2
+      x: 900.437
+      y: 21
+      width: 14.751343
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 109.99125
+    EndPosition: 112.227135
+    Name: Timing 12
+    Text: 'people
+
+'
+    Rectangle:
+      serializedVersion: 2
+      x: 916.4127
+      y: 21
+      width: 18.01886
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 113.14091
+    EndPosition: 115.83539
+    Name: Timing 13
+    Text: Livin' just to find emotion
+    Rectangle:
+      serializedVersion: 2
+      x: 941.79565
+      y: 21
+      width: 21.71466
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 116.25989
+    EndPosition: 121.976364
+    Name: Timing 15
+    Text: Hidin' somewhere in the night
+    Rectangle:
+      serializedVersion: 2
+      x: 966.9313
+      y: 21
+      width: 46.068787
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 123.71356
+    EndPosition: 128.0566
+    Name: Timing 16
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 1027
+      y: 21
+      width: 35.000244
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

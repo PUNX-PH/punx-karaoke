@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: How Deep Is Your Love
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: d343ee202b6117f4bac13910534deafb, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 18.102383
+    EndPosition: 23.971413
+    Name: Timing 1
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 498.95776
+      y: 21
+      width: 152.04224
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 24.962019
+    EndPosition: 28.217556
+    Name: Timing 2
+    Text: I know your eyes in the morning sun
+    Rectangle:
+      serializedVersion: 2
+      x: 676.66254
+      y: 21
+      width: 84.33746
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 29.079342
+    EndPosition: 33.27433
+    Name: Timing 3
+    Text: I feel you touch me in the pouring rain
+    Rectangle:
+      serializedVersion: 2
+      x: 783.3253
+      y: 21
+      width: 108.67474
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 34.15669
+    EndPosition: 38.06089
+    Name: Timing 4
+    Text: And the moment that you wander far from me
+    Rectangle:
+      serializedVersion: 2
+      x: 914.85834
+      y: 21
+      width: 101.14166
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 38.485504
+    EndPosition: 41.998222
+    Name: Timing 5
+    Text: I wanna feel you in my arms again
+    Rectangle:
+      serializedVersion: 2
+      x: 1027
+      y: 21
+      width: 91
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 43.233467
+    EndPosition: 47.016396
+    Name: Timing 6
+    Text: And you come to me on a summer
+    Rectangle:
+      serializedVersion: 2
+      x: 1150.0001
+      y: 21
+      width: 98
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 47.189095
+    EndPosition: 47.595413
+    Name: Timing 10
+    Text: breeze
+    Rectangle:
+      serializedVersion: 2
+      x: 1252.474
+      y: 21
+      width: 10.526001
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 47.827023
+    EndPosition: 51.764355
+    Name: Timing 7
+    Text: Keep me warm in your love, then you softly
+    Rectangle:
+      serializedVersion: 2
+      x: 1269.0001
+      y: 21
+      width: 101.99988
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 51.91905
+    EndPosition: 52.343376
+    Name: Timing 11
+    Text: leave
+    Rectangle:
+      serializedVersion: 2
+      x: 1375.0074
+      y: 21
+      width: 10.992676
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 52.883793
+    EndPosition: 55.817493
+    Name: Timing 8
+    Text: And it's me you need to show
+    Rectangle:
+      serializedVersion: 2
+      x: 1400
+      y: 21
+      width: 76.00012
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 56.55092
+    EndPosition: 57.86336
+    Name: Timing 9
+    Text: How deep is your love?
+    Rectangle:
+      serializedVersion: 2
+      x: 1495.0001
+      y: 21
+      width: 33.999878
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 57.93873
+    EndPosition: 59.52322
+    Name: Timing 12
+    Text: How deep is your love?
+    Rectangle:
+      serializedVersion: 2
+      x: 1530.9525
+      y: 21
+      width: 41.047607
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 59.595486
+    EndPosition: 61.8393
+    Name: Timing 13
+    Text: How deep is your love?
+    Rectangle:
+      serializedVersion: 2
+      x: 1573.8722
+      y: 21
+      width: 58.12793
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 62.06916
+    EndPosition: 65.19761
+    Name: Timing 14
+    Text: I really mean to learn
+    Rectangle:
+      serializedVersion: 2
+      x: 1637.9548
+      y: 21
+      width: 81.045166
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 65.75037
+    EndPosition: 68.98054
+    Name: Timing 15
+    Text: '''Cause we''re living in a world of '
+    Rectangle:
+      serializedVersion: 2
+      x: 1733.3197
+      y: 21
+      width: 83.6803
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 69.03569
+    EndPosition: 69.40515
+    Name: Timing 16
+    Text: fools
+    Rectangle:
+      serializedVersion: 2
+      x: 1818.4288
+      y: 21
+      width: 9.571167
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 70.7562
+    EndPosition: 76.89381
+    Name: Timing 17
+    Text: Breaking us down when they all should let us be
+    Rectangle:
+      serializedVersion: 2
+      x: 1863.0001
+      y: 21
+      width: 158.99988
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 77.894875
+    EndPosition: 81.25575
+    Name: Timing 18
+    Text: We belong to you and me
+    Rectangle:
+      serializedVersion: 2
+      x: 2047.9336
+      y: 21
+      width: 87.06641
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 81.93283
+    EndPosition: 84.30526
+    Name: Timing 19
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 2152.5403
+      y: 21
+      width: 61.459717
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
