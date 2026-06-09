@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2e276ae38604e48ea8719fcfc50e0200
+timeCreated: 1495203642
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/Scripts/TextEffects/Mesh/MeshAnimations/AlphaCenterMeshAnimation.cs
+  uploadId: 737696

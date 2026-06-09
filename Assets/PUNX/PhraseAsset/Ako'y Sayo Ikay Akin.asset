@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Ako'y Sayo Ikay Akin
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: 69c808679eef4eb4f9516cfd8596c476, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 18.904104
+    EndPosition: 23.630136
+    Name: Timing 1
+    Text: (Instrumental)
+    Rectangle:
+      serializedVersion: 2
+      x: 295.33298
+      y: 21
+      width: 66.33334
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 23.976515
+    EndPosition: 27.305485
+    Name: Timing 2
+    Text: ikaw na ang may sabi
+    Rectangle:
+      serializedVersion: 2
+      x: 366.52798
+      y: 21
+      width: 46.72455
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 31.550838
+    EndPosition: 36.539417
+    Name: Timing 3
+    Text: na ako'y mahal mo rin
+    Rectangle:
+      serializedVersion: 2
+      x: 472.83917
+      y: 21
+      width: 70.01837
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 38.721134
+    EndPosition: 42.320553
+    Name: Timing 4
+    Text: at sinabi mo
+    Rectangle:
+      serializedVersion: 2
+      x: 573.47955
+      y: 21
+      width: 50.520508
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 44.981564
+    EndPosition: 45.575195
+    Name: Timing 5
+    Text: na ang
+    Rectangle:
+      serializedVersion: 2
+      x: 661.3493
+      y: 21
+      width: 8.332031
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 45.64483
+    EndPosition: 46.4867
+    Name: Timing 6
+    Text: pagibig
+    Rectangle:
+      serializedVersion: 2
+      x: 670.6587
+      y: 21
+      width: 11.816284
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 46.664036
+    EndPosition: 49.538254
+    Name: Timing 7
+    Text: mo'y di magbabago
+    Rectangle:
+      serializedVersion: 2
+      x: 684.964
+      y: 21
+      width: 40.341797
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 50.410114
+    EndPosition: 52.508835
+    Name: Timing 8
+    Text: ngunit bakit
+    Rectangle:
+      serializedVersion: 2
+      x: 737.54297
+      y: 21
+      width: 29.457092
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 55.046894
+    EndPosition: 57.90031
+    Name: Timing 9
+    Text: sa tuwing ako'y lumalapit
+    Rectangle:
+      serializedVersion: 2
+      x: 802.6236
+      y: 21
+      width: 40.049805
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 58.012222
+    EndPosition: 60.488464
+    Name: Timing 10
+    Text: ika'y lumalayo
+    Rectangle:
+      serializedVersion: 2
+      x: 844.24414
+      y: 21
+      width: 34.75586
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 65.65635
+    EndPosition: 71.45398
+    Name: Timing 12
+    Text: puso'y laging nasasaktan
+    Rectangle:
+      serializedVersion: 2
+      x: 951.5351
+      y: 21
+      width: 81.37396
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 71.59016
+    EndPosition: 72.72216
+    Name: Timing 13
+    Text: 'pag may '
+    Rectangle:
+      serializedVersion: 2
+      x: 1034.8204
+      y: 21
+      width: 15.88855
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 72.84105
+    EndPosition: 73.51477
+    Name: Timing 14
+    Text: kasama
+    Rectangle:
+      serializedVersion: 2
+      x: 1052.3776
+      y: 21
+      width: 9.456177
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 73.58145
+    EndPosition: 75.236534
+    Name: Timing 15
+    Text: kang iba
+    Rectangle:
+      serializedVersion: 2
+      x: 1062.7697
+      y: 21
+      width: 23.230347
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 79.59746
+    EndPosition: 83.026115
+    Name: Timing 16
+    Text: di ba nila alam
+    Rectangle:
+      serializedVersion: 2
+      x: 1147.2087
+      y: 21
+      width: 48.12378
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 86.60873
+    EndPosition: 91.46743
+    Name: Timing 17
+    Text: na tayo'y nagsumpaan
+    Rectangle:
+      serializedVersion: 2
+      x: 1245.6171
+      y: 21
+      width: 68.195435
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 93.84526
+    EndPosition: 95.43049
+    Name: Timing 18
+    Text: na ako'y
+    Rectangle:
+      serializedVersion: 2
+      x: 1347.1871
+      y: 21
+      width: 22.249878
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 95.52417
+    EndPosition: 97.21387
+    Name: Timing 19
+    Text: sayo
+    Rectangle:
+      serializedVersion: 2
+      x: 1370.7518
+      y: 21
+      width: 23.716187
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 97.64537
+    EndPosition: 102.52437
+    Name: Timing 20
+    Text: at ika'y akin lamang
+    Rectangle:
+      serializedVersion: 2
+      x: 1400.5245
+      y: 21
+      width: 68.480225
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 102.643265
+    EndPosition: 107.597084
+    Name: Timing 21
+    Text: (instrumental)
+    Rectangle:
+      serializedVersion: 2
+      x: 1470.6736
+      y: 21
+      width: 69.53052
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

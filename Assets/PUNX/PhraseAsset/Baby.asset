@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Baby
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: 43fdf19d755a336418be80715217942c, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 37.145073
+    EndPosition: 39.849888
+    Name: Timing 2
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 746.7898
+      y: 21
+      width: 52.194946
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 40.019184
+    EndPosition: 41.636635
+    Name: Timing 3
+    Text: Are we an item?
+    Rectangle:
+      serializedVersion: 2
+      x: 802.25165
+      y: 21
+      width: 31.211975
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 41.745533
+    EndPosition: 43.639957
+    Name: Timing 4
+    Text: Girl, quit playin
+    Rectangle:
+      serializedVersion: 2
+      x: 835.56506
+      y: 21
+      width: 36.556763
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 44.018955
+    EndPosition: 44.578854
+    Name: Timing 5
+    Text: We're just
+    Rectangle:
+      serializedVersion: 2
+      x: 879.43536
+      y: 21
+      width: 10.804382
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 44.67007
+    EndPosition: 45.136463
+    Name: Timing 11
+    Text: \n friends
+    Rectangle:
+      serializedVersion: 2
+      x: 892
+      y: 21
+      width: 8.999939
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 45.291927
+    EndPosition: 47.05102
+    Name: Timing 6
+    Text: What are you saying?
+    Rectangle:
+      serializedVersion: 2
+      x: 903.99994
+      y: 21
+      width: 33.945312
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 47.346348
+    EndPosition: 49.69675
+    Name: Timing 7
+    Text: Cause there's another and looked right in my
+    Rectangle:
+      serializedVersion: 2
+      x: 943.64417
+      y: 21
+      width: 45.355835
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 49.800392
+    EndPosition: 50.73318
+    Name: Timing 12
+    Text: \n eyes
+    Rectangle:
+      serializedVersion: 2
+      x: 991
+      y: 21
+      width: 18.000061
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 50.90059
+    EndPosition: 51.599106
+    Name: Timing 8
+    Text: My first
+    Rectangle:
+      serializedVersion: 2
+      x: 1012.2305
+      y: 21
+      width: 13.479309
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 51.68288
+    EndPosition: 52.149563
+    Name: Timing 10
+    Text: \n love
+    Rectangle:
+      serializedVersion: 2
+      x: 1027.3264
+      y: 21
+      width: 9.005615
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 52.258545
+    EndPosition: 53.56518
+    Name: Timing 9
+    Text: broke my heart for the first time
+    Rectangle:
+      serializedVersion: 2
+      x: 1038.435
+      y: 21
+      width: 25.214233
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 53.91356
+    EndPosition: 55.350685
+    Name: Timing 10
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 1070.372
+      y: 21
+      width: 27.732178
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

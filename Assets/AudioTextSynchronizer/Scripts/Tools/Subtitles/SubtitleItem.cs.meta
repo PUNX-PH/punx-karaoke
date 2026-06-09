@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 785d19b737117494bbdaf8b391e68aed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/Scripts/Tools/Subtitles/SubtitleItem.cs
+  uploadId: 737696

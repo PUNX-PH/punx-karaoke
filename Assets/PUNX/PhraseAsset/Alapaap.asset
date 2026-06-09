@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Alapaap
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: 732564c35fd1b484eb6fc630b27cc174, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 177.18782
+    EndPosition: 180.09935
+    Name: Timing 1
+    Text: (Instrumental)
+    Rectangle:
+      serializedVersion: 2
+      x: 2779.3596
+      y: 21
+      width: 45.177246
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 180.81448
+    EndPosition: 184.19597
+    Name: Timing 2
+    Text: andaming bawal sa mundo
+    Rectangle:
+      serializedVersion: 2
+      x: 2835.6333
+      y: 21
+      width: 52.46924
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 184.39662
+    EndPosition: 187.30637
+    Name: Timing 3
+    Text: (andaming bawal sa mundo)
+    Rectangle:
+      serializedVersion: 2
+      x: 2891.216
+      y: 21
+      width: 45.149414
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 187.45247
+    EndPosition: 190.87193
+    Name: Timing 4
+    Text: sinasakal nila tayo
+    Rectangle:
+      serializedVersion: 2
+      x: 2938.6326
+      y: 21
+      width: 53.058594
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 191.09953
+    EndPosition: 193.4513
+    Name: Timing 5
+    Text: (sinasakal nila tayo)
+    Rectangle:
+      serializedVersion: 2
+      x: 2995.2227
+      y: 21
+      width: 36.491455
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 193.7506
+    EndPosition: 194.74097
+    Name: Timing 6
+    Text: buksan ang
+    Rectangle:
+      serializedVersion: 2
+      x: 3036.3584
+      y: 21
+      width: 15.3671875
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 194.99274
+    EndPosition: 195.66092
+    Name: Timing 7
+    Text: puso
+    Rectangle:
+      serializedVersion: 2
+      x: 3055.632
+      y: 21
+      width: 10.36792
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 195.79102
+    EndPosition: 196.30539
+    Name: Timing 8
+    Text: at
+    Rectangle:
+      serializedVersion: 2
+      x: 3068.0188
+      y: 21
+      width: 7.9814453
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 196.56317
+    EndPosition: 197.52988
+    Name: Timing 9
+    Text: isipan
+    Rectangle:
+      serializedVersion: 2
+      x: 3080
+      y: 21
+      width: 15
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 200.00607
+    EndPosition: 203.78123
+    Name: Timing 10
+    Text: Paliparin ang kamalayan
+    Rectangle:
+      serializedVersion: 2
+      x: 3133.4224
+      y: 21
+      width: 58.57788
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 204.03903
+    EndPosition: 205.45685
+    Name: Timing 11
+    Text: (paliparin)
+    Rectangle:
+      serializedVersion: 2
+      x: 3196.0002
+      y: 21
+      width: 21.999756
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 205.58818
+    EndPosition: 208.4214
+    Name: Timing 12
+    Text: Masdan mo ang aking mata
+    Rectangle:
+      serializedVersion: 2
+      x: 3220.0378
+      y: 21
+      width: 43.96216
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 208.55031
+    EndPosition: 211.38597
+    Name: Timing 13
+    Text: '''Di mo ba nakikita'
+    Rectangle:
+      serializedVersion: 2
+      x: 3266.0002
+      y: 21
+      width: 43.999756
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 212.59436
+    EndPosition: 215.44612
+    Name: Timing 14
+    Text: Ako'y lumilipad at nasa
+    Rectangle:
+      serializedVersion: 2
+      x: 3328.7502
+      y: 21
+      width: 44.249756
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 215.57501
+    EndPosition: 216.34837
+    Name: Timing 15
+    Text: alapaap
+    Rectangle:
+      serializedVersion: 2
+      x: 3375
+      y: 21
+      width: 12
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 216.54172
+    EndPosition: 217.70177
+    Name: Timing 16
+    Text: na
+    Rectangle:
+      serializedVersion: 2
+      x: 3390
+      y: 21
+      width: 18
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 220.37175
+    EndPosition: 222.92197
+    Name: Timing 17
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 3449.4292
+      y: 21
+      width: 39.5708
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

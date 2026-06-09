@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5bf3ed4c89164891a0a60065c7be2322
+timeCreated: 1690023980
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/Scripts/Editor/AudioClipsMenu.cs
+  uploadId: 737696

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cbe3194247ecc418981291461a549863
+timeCreated: 1496129565
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/Manual.pdf
+  uploadId: 737696

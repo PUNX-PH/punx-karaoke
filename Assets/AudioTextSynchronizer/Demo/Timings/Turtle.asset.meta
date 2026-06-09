@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22c715689ec9947b0a4e8899cd04a4ce
+timeCreated: 1496153331
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/Demo/Timings/Turtle.asset
+  uploadId: 737696

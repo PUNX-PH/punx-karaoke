@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e2b3399b00fa40cd8d7cfa3d207eac64
+timeCreated: 1690097637
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/Scripts/Editor/Whisper/WhisperInstallerWindow.cs
+  uploadId: 737696

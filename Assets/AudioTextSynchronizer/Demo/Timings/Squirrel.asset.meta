@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91d32656ab2cd4a90ba0a5de8e72004d
+timeCreated: 1496153331
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/Demo/Timings/Squirrel.asset
+  uploadId: 737696

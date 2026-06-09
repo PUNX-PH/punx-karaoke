@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Chinito
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: 24e63abc3c3675d4997843de41240c2f, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 45.81907
+    EndPosition: 49.613686
+    Name: Timing 1
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 1248.1185
+      y: 21
+      width: 100.88147
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 50.128414
+    EndPosition: 52.622856
+    Name: Timing 2
+    Text: At kung ikaw ay nakatawa
+    Rectangle:
+      serializedVersion: 2
+      x: 1362.6842
+      y: 21
+      width: 66.315796
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 53.525604
+    EndPosition: 56.64762
+    Name: Timing 3
+    Text: ako pa ba ay nakikita?
+    Rectangle:
+      serializedVersion: 2
+      x: 1453
+      y: 21
+      width: 83
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 57.174225
+    EndPosition: 60.71
+    Name: Timing 4
+    Text: Nalilimutan ko ang itsura ko
+    Rectangle:
+      serializedVersion: 2
+      x: 1550
+      y: 21
+      width: 94
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 60.89848
+    EndPosition: 61.725594
+    Name: Timing 5
+    Text: 'kapag '
+    Rectangle:
+      serializedVersion: 2
+      x: 1649.0109
+      y: 21
+      width: 21.989136
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 61.785534
+    EndPosition: 62.966877
+    Name: Timing 6
+    Text: kausap
+    Rectangle:
+      serializedVersion: 2
+      x: 1672.5935
+      y: 21
+      width: 31.406494
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 63.153152
+    EndPosition: 64.35862
+    Name: Timing 7
+    Text: na ikaw
+    Rectangle:
+      serializedVersion: 2
+      x: 1708.9523
+      y: 21
+      width: 32.04773
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 64.48202
+    EndPosition: 67.104485
+    Name: Timing 8
+    Text: Sana naman, ako'y pakinggan
+    Rectangle:
+      serializedVersion: 2
+      x: 1744.2806
+      y: 21
+      width: 69.71936
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 68.232925
+    EndPosition: 69.58705
+    Name: Timing 9
+    Text: at nang ikaw ay
+    Rectangle:
+      serializedVersion: 2
+      x: 1844
+      y: 21
+      width: 36
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 69.72959
+    EndPosition: 71.242096
+    Name: Timing 10
+    Text: malinawan
+    Rectangle:
+      serializedVersion: 2
+      x: 1883.7896
+      y: 21
+      width: 40.21057
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 72.12005
+    EndPosition: 74.10081
+    Name: Timing 11
+    Text: Dahil nabihag mo
+    Rectangle:
+      serializedVersion: 2
+      x: 1947.3408
+      y: 21
+      width: 52.6593
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 74.251205
+    EndPosition: 75.154015
+    Name: Timing 12
+    Text: ang aking
+    Rectangle:
+      serializedVersion: 2
+      x: 2003.9984
+      y: 21
+      width: 24.001587
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 75.304474
+    EndPosition: 76.733826
+    Name: Timing 13
+    Text: paningin
+    Rectangle:
+      serializedVersion: 2
+      x: 2032
+      y: 21
+      width: 38
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 77.034744
+    EndPosition: 79.21639
+    Name: Timing 14
+    Text: at damamin
+    Rectangle:
+      serializedVersion: 2
+      x: 2078
+      y: 21
+      width: 58
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 79.78061
+    EndPosition: 82.63932
+    Name: Timing 15
+    Text: oh chinito
+    Rectangle:
+      serializedVersion: 2
+      x: 2151
+      y: 21
+      width: 76
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 83.31349
+    EndPosition: 85.76134
+    Name: Timing 16
+    Text: ....
+    Rectangle:
+      serializedVersion: 2
+      x: 2244.923
+      y: 21
+      width: 65.076904
+      height: 256.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

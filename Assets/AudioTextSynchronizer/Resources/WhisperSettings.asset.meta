@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a17a4fbf6d850417fadfbd9cd25eb23c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/Resources/WhisperSettings.asset
+  uploadId: 737696

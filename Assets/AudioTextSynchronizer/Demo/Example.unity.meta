@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 55311ea6fa825431597dc0c0bb710ff6
+timeCreated: 1496039926
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/Demo/Example.unity
+  uploadId: 737696

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cad123d515f7f4ec391fed76b9c7db23
+timeCreated: 1495734718
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/Scripts/TextSynchronizer.cs
+  uploadId: 737696

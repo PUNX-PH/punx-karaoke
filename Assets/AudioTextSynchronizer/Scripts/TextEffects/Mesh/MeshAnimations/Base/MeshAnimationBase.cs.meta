@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 579923d9b75f84b7fb62a658fe7299e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/Scripts/TextEffects/Mesh/MeshAnimations/Base/MeshAnimationBase.cs
+  uploadId: 737696

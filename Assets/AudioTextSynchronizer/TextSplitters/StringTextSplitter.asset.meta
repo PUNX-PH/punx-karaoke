@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0d89a870865f44ff995affdfe40d146
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/TextSplitters/StringTextSplitter.asset
+  uploadId: 737696

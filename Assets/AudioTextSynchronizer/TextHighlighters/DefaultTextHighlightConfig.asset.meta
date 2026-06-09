@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ce124e4bff22486d8c12b9caf543e26
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/TextHighlighters/DefaultTextHighlightConfig.asset
+  uploadId: 737696

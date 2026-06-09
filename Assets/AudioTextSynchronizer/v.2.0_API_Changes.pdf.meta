@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d630e0acbd3344460b045fab1a50da5b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/v.2.0_API_Changes.pdf
+  uploadId: 737696

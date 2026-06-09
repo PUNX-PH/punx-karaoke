@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 428bc85abbd774a498c2cd0e674e7a30
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/TextEffects/Mesh/MeshAnimations/AlphaCharScaleMeshAnimation.asset
+  uploadId: 737696

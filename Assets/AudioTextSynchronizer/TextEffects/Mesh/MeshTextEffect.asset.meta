@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd38713246ad243e6a66f28244d903f4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/TextEffects/Mesh/MeshTextEffect.asset
+  uploadId: 737696

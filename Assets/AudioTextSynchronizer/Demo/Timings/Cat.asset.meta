@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e17ca8f5c7924010aaf259578fda12d
+timeCreated: 1496153331
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/Demo/Timings/Cat.asset
+  uploadId: 737696

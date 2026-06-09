@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5168b9d9d9d694c49b14359b8840fda8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/TextEffects/Rich/RichTextEffect.asset
+  uploadId: 737696

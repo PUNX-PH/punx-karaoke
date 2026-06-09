@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 39f6ff0f333a7408d950dee6ee451190
+timeCreated: 1495734234
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/Scripts/Editor/TimingsEditor/Input.cs
+  uploadId: 737696

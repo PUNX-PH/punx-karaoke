@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1425af6e6558e4deb97fe57288ab0d70
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/AudioTextSynchronizer.asmdef
+  uploadId: 737696

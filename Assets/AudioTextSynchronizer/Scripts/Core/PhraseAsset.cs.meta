@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 748de4471f0464f0bb7f596c821ee567
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 9ae39c5ddd8d24ce3ae3cb22716d6880, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/Scripts/Core/PhraseAsset.cs
+  uploadId: 737696

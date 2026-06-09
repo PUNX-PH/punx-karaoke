@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: IV OF SPADES - Mundo
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 4cecc4ea3d025f14ab54e69f9b69ed8f, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 94.00082
+    EndPosition: 108.64423
+    Name: Timing 1
+    Text: Aking sinta, ikaw na ang tahanan at mundo
+    Rectangle:
+      serializedVersion: 2
+      x: 950
+      y: 21
+      width: 143.31726
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 109.0025
+    EndPosition: 120.01919
+    Name: Timing 2
+    Text: Sa pagbalik, mananatili na sa piling mo
+    Rectangle:
+      serializedVersion: 2
+      x: 1096.8237
+      y: 21
+      width: 107.8219
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 120.28789
+    EndPosition: 121.362686
+    Name: Timing 3
+    Text: ' mundo'
+    Rectangle:
+      serializedVersion: 2
+      x: 1207.2755
+      y: 21
+      width: 10.519165
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 121.631386
+    EndPosition: 125.06196
+    Name: Timing 4
+    Text: magiging ikaw
+    Rectangle:
+      serializedVersion: 2
+      x: 1220.4244
+      y: 21
+      width: 33.57556
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7857a7dd50ab54c2da216414492e1d33
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233253
+  packageName: Audio-Text Synchronizer
+  packageVersion: 2.1.2
+  assetPath: Assets/AudioTextSynchronizer/Documentation/fonts/OpenSans-Regular.woff2
+  uploadId: 737696
