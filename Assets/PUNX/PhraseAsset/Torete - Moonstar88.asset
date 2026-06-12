@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Torete - Moonstar88
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 47ea60fd8c98f9f4581c41874201505e, type: 3}
+  Text: "Ilang gabi pa nga lang\r\nNang tayo'y pinagtagpo\r\nNa parang may \ntumulak\nNanlalamig,
+    nanginginig na ako\r\nAkala ko nung una\r\nMay bukas ang \nganito\r\nMabuti pang
+    umiwas\r\nPero salamat na rin at nagtagpo\r\n\r\nTorete, torete, torete ako\r\nTorete,
+    torete, torete \nsa'yo"
+  Timings:
+  - StartPosition: 100.91719
+    EndPosition: 105.94802
+    Name: Timing 1
+    Text: Ilang gabi pa nga lang
+    Rectangle:
+      serializedVersion: 2
+      x: 1374.0001
+      y: 21
+      width: 66.99988
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 106.250496
+    EndPosition: 111.65465
+    Name: Timing 2
+    Text: Nang tayo'y pinagtagpo
+    Rectangle:
+      serializedVersion: 2
+      x: 1445.0283
+      y: 21
+      width: 71.97168
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 112.85603
+    EndPosition: 113.907265
+    Name: Timing 3
+    Text: Na parang may
+    Rectangle:
+      serializedVersion: 2
+      x: 1532.9999
+      y: 21
+      width: 14.000122
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 114.13687
+    EndPosition: 116.08479
+    Name: Timing 4
+    Text: tumulak
+    Rectangle:
+      serializedVersion: 2
+      x: 1550.0579
+      y: 21
+      width: 25.942139
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 116.24886
+    EndPosition: 123.14299
+    Name: Timing 5
+    Text: Nanlalamig, nanginginig na ako
+    Rectangle:
+      serializedVersion: 2
+      x: 1578.185
+      y: 21
+      width: 91.81494
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 124.184875
+    EndPosition: 127.49805
+    Name: Timing 6
+    Text: Akala ko nung una
+    Rectangle:
+      serializedVersion: 2
+      x: 1683.8756
+      y: 21
+      width: 44.12439
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 128.2074
+    EndPosition: 131.17732
+    Name: Timing 7
+    Text: 'May bukas ang '
+    Rectangle:
+      serializedVersion: 2
+      x: 1737.447
+      y: 21
+      width: 39.55298
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 131.42873
+    EndPosition: 133.27975
+    Name: Timing 8
+    Text: ganito
+    Rectangle:
+      serializedVersion: 2
+      x: 1780.3481
+      y: 21
+      width: 24.651733
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 133.47673
+    EndPosition: 137.93517
+    Name: Timing 9
+    Text: Mabuti pang umiwas
+    Rectangle:
+      serializedVersion: 2
+      x: 1807.6232
+      y: 21
+      width: 59.37683
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 138.14873
+    EndPosition: 146.19476
+    Name: Timing 10
+    Text: Pero salamat na rin at nagtagpo
+    Rectangle:
+      serializedVersion: 2
+      x: 1869.8441
+      y: 21
+      width: 107.156006
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 147.6214
+    EndPosition: 157.98344
+    Name: Timing 11
+    Text: Torete, torete, torete ako
+    Rectangle:
+      serializedVersion: 2
+      x: 1995.9998
+      y: 21
+      width: 138.00024
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 158.3783
+    EndPosition: 166.09286
+    Name: Timing 12
+    Text: 'Torete, torete, torete '
+    Rectangle:
+      serializedVersion: 2
+      x: 2139.2585
+      y: 21
+      width: 102.741455
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 166.31429
+    EndPosition: 169.54688
+    Name: Timing 13
+    Text: sa'yo
+    Rectangle:
+      serializedVersion: 2
+      x: 2244.949
+      y: 21
+      width: 43.051025
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

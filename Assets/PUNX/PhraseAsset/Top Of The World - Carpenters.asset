@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Top Of The World - Carpenters
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: f0b1b539fc98f524aa46fa3800d1f743, type: 3}
+  Text: "Everything I want the world to be\r\nIs now coming true especially for me\r\nAnd
+    the reason is clear, it's because you are here\r\nYou're the nearest thing to
+    \nheaven \nthat I've seen\r\nI'm on the top of the world, \nlooking down on creation\r\nAnd
+    the only \nexplanation \nI can find\r\nIs the love that I've found \never since
+    you've been around\r\nYour love's put me at the top of the \nworld"
+  Timings:
+  - StartPosition: 49.302177
+    EndPosition: 52.017075
+    Name: Timing 1
+    Text: Everything I want the world to be
+    Rectangle:
+      serializedVersion: 2
+      x: 1391.9995
+      y: 21
+      width: 75.00049
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 52.958233
+    EndPosition: 58.60518
+    Name: Timing 2
+    Text: Is now coming true especially for me
+    Rectangle:
+      serializedVersion: 2
+      x: 1493
+      y: 21
+      width: 156
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 58.713764
+    EndPosition: 64.07114
+    Name: Timing 3
+    Text: And the reason is clear, it's because you are here
+    Rectangle:
+      serializedVersion: 2
+      x: 1651.9996
+      y: 21
+      width: 148.00037
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 64.252106
+    EndPosition: 65.73626
+    Name: Timing 4
+    Text: 'You''re the nearest thing to '
+    Rectangle:
+      serializedVersion: 2
+      x: 1804.9994
+      y: 21
+      width: 41.00061
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 65.84486
+    EndPosition: 66.64122
+    Name: Timing 5
+    Text: heaven
+    Rectangle:
+      serializedVersion: 2
+      x: 1849
+      y: 21
+      width: 22
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 66.78601
+    EndPosition: 68.01676
+    Name: Timing 6
+    Text: that I've seen
+    Rectangle:
+      serializedVersion: 2
+      x: 1874.9999
+      y: 21
+      width: 34.000122
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 68.161545
+    EndPosition: 71.021225
+    Name: Timing 7
+    Text: 'I''m on the top of the world, '
+    Rectangle:
+      serializedVersion: 2
+      x: 1912.9998
+      y: 21
+      width: 79.000244
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 71.16601
+    EndPosition: 73.989494
+    Name: Timing 8
+    Text: looking down on creation
+    Rectangle:
+      serializedVersion: 2
+      x: 1995.9998
+      y: 21
+      width: 78.000244
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 74.098076
+    EndPosition: 75.18404
+    Name: Timing 9
+    Text: 'And the only '
+    Rectangle:
+      serializedVersion: 2
+      x: 2076.9998
+      y: 21
+      width: 30.000244
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 75.356735
+    EndPosition: 76.74057
+    Name: Timing 10
+    Text: explanation
+    Rectangle:
+      serializedVersion: 2
+      x: 2111.7708
+      y: 21
+      width: 38.229248
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 76.92156
+    EndPosition: 77.46454
+    Name: Timing 11
+    Text: I can find
+    Rectangle:
+      serializedVersion: 2
+      x: 2155
+      y: 21
+      width: 15
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 78.984856
+    EndPosition: 82.025536
+    Name: Timing 12
+    Text: 'Is the love that I''ve found '
+    Rectangle:
+      serializedVersion: 2
+      x: 2211.9995
+      y: 21
+      width: 84.00049
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 82.17032
+    EndPosition: 84.378426
+    Name: Timing 13
+    Text: ever since you've been around
+    Rectangle:
+      serializedVersion: 2
+      x: 2299.9998
+      y: 21
+      width: 61.000244
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 84.55941
+    EndPosition: 88.46884
+    Name: Timing 14
+    Text: Your love's put me at the top of the
+    Rectangle:
+      serializedVersion: 2
+      x: 2365.9998
+      y: 21
+      width: 108.000244
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 88.613625
+    EndPosition: 88.86703
+    Name: Timing 15
+    Text: world
+    Rectangle:
+      serializedVersion: 2
+      x: 2477.9995
+      y: 21
+      width: 7.0004883
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Forevermore - Juris Fernandez
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 9871c12d667aaac4390ad43101d708c1, type: 3}
+  Text: "I just can't believe that you are mine now\r\nYou were just a \ndream\nthat
+    I once knew\r\nI never thought I would be right for you\r\nI just can't \ncompare
+    \nyou with \r\nAnything in this world \r\nYou're all I need to be with \nforevermore"
+  Timings:
+  - StartPosition: 122.48204
+    EndPosition: 128.75267
+    Name: Timing 1
+    Text: I just can't believe that you are mine now
+    Rectangle:
+      serializedVersion: 2
+      x: 1472.8379
+      y: 21
+      width: 73.86792
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 130.778
+    EndPosition: 132.49922
+    Name: Timing 2
+    Text: 'You were just a '
+    Rectangle:
+      serializedVersion: 2
+      x: 1570.5642
+      y: 21
+      width: 20.276001
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 132.73166
+    EndPosition: 134.01018
+    Name: Timing 3
+    Text: dream
+    Rectangle:
+      serializedVersion: 2
+      x: 1593.5782
+      y: 21
+      width: 15.061035
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 134.35297
+    EndPosition: 137.01195
+    Name: Timing 4
+    Text: that I once knew
+    Rectangle:
+      serializedVersion: 2
+      x: 1612.6772
+      y: 21
+      width: 31.322876
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 137.3515
+    EndPosition: 142.02043
+    Name: Timing 5
+    Text: I never thought I would be right for you
+    Rectangle:
+      serializedVersion: 2
+      x: 1648
+      y: 21
+      width: 55
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 143.2089
+    EndPosition: 144.48224
+    Name: Timing 6
+    Text: 'I just can''t '
+    Rectangle:
+      serializedVersion: 2
+      x: 1717.0001
+      y: 21
+      width: 15
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 144.76128
+    EndPosition: 145.5858
+    Name: Timing 7
+    Text: 'compare '
+    Rectangle:
+      serializedVersion: 2
+      x: 1735.2871
+      y: 21
+      width: 9.712891
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 145.80663
+    EndPosition: 146.68936
+    Name: Timing 8
+    Text: 'you with '
+    Rectangle:
+      serializedVersion: 2
+      x: 1747.6013
+      y: 21
+      width: 10.398682
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 147.45337
+    EndPosition: 149.49072
+    Name: Timing 9
+    Text: Anything in this world
+    Rectangle:
+      serializedVersion: 2
+      x: 1767
+      y: 21
+      width: 24
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 149.91518
+    EndPosition: 153.48055
+    Name: Timing 10
+    Text: 'You''re all I need to be with '
+    Rectangle:
+      serializedVersion: 2
+      x: 1796
+      y: 21
+      width: 42.000122
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 153.82008
+    EndPosition: 154.92366
+    Name: Timing 11
+    Text: forevermore
+    Rectangle:
+      serializedVersion: 2
+      x: 1841.9999
+      y: 21
+      width: 13.000122
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

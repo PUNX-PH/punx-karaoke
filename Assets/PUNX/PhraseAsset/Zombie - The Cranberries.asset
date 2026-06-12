@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Zombie - The Cranberries
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 86cfd5132e8162f47ab3fbeca82a8d0e, type: 3}
+  Text: "But you see, it's not me, it's not my family\r\nIn your head, in your head,
+    they are \nfightin'\nWith their tanks \nand their bombs \nand their bombs \nand
+    their guns \r\nIn your head, in your head, they are \ncryin'\r\nIn your head,
+    in your head\r\nZombie, zombie, zombie-ie-ie\r\nWhat's in your \nhead"
+  Timings:
+  - StartPosition: 78.993355
+    EndPosition: 84.85388
+    Name: Timing 1
+    Text: But you see, it's not me, it's not my family
+    Rectangle:
+      serializedVersion: 2
+      x: 1973.021
+      y: 21
+      width: 144.15283
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 85.822334
+    EndPosition: 89.13297
+    Name: Timing 2
+    Text: 'In your head, in your head, they are '
+    Rectangle:
+      serializedVersion: 2
+      x: 2140.995
+      y: 21
+      width: 81.43286
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 89.33613
+    EndPosition: 90.219154
+    Name: Timing 3
+    Text: fightin'
+    Rectangle:
+      serializedVersion: 2
+      x: 2227.425
+      y: 21
+      width: 21.71997
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 90.60583
+    EndPosition: 92.04273
+    Name: Timing 4
+    Text: 'With their tanks '
+    Rectangle:
+      serializedVersion: 2
+      x: 2258.656
+      y: 21
+      width: 35.343994
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 92.28666
+    EndPosition: 94.27875
+    Name: Timing 5
+    Text: and their bombs
+    Rectangle:
+      serializedVersion: 2
+      x: 2300
+      y: 21
+      width: 49
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 94.4007
+    EndPosition: 95.4984
+    Name: Timing 6
+    Text: and their bombs
+    Rectangle:
+      serializedVersion: 2
+      x: 2351.9998
+      y: 21
+      width: 27.000244
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 95.68068
+    EndPosition: 97.04328
+    Name: Timing 7
+    Text: 'and their guns '
+    Rectangle:
+      serializedVersion: 2
+      x: 2383.4836
+      y: 21
+      width: 33.516357
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 97.20261
+    EndPosition: 100.53961
+    Name: Timing 8
+    Text: 'In your head, in your head, they are '
+    Rectangle:
+      serializedVersion: 2
+      x: 2420.919
+      y: 21
+      width: 82.081055
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 100.661575
+    EndPosition: 102.93825
+    Name: Timing 9
+    Text: cryin'
+    Rectangle:
+      serializedVersion: 2
+      x: 2506
+      y: 21
+      width: 56
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 103.75134
+    EndPosition: 108.467316
+    Name: Timing 10
+    Text: In your head, in your head
+    Rectangle:
+      serializedVersion: 2
+      x: 2582
+      y: 21
+      width: 116
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 108.57583
+    EndPosition: 114.60621
+    Name: Timing 11
+    Text: Zombie, zombie, zombie-ie-ie
+    Rectangle:
+      serializedVersion: 2
+      x: 2700.6692
+      y: 21
+      width: 148.33081
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 114.65583
+    EndPosition: 116.02913
+    Name: Timing 12
+    Text: 'What''s in your '
+    Rectangle:
+      serializedVersion: 2
+      x: 2850.2205
+      y: 21
+      width: 33.77954
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 116.11043
+    EndPosition: 117.695984
+    Name: Timing 13
+    Text: head
+    Rectangle:
+      serializedVersion: 2
+      x: 2885.9998
+      y: 21
+      width: 39.000244
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

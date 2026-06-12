@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Sway - Bic Runga
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: b7f1c6004a90d0c41a262f7f082572f5, type: 3}
+  Text: "Say you'll stay\r\nDon't come and go, \nlike you do\r\nSway my way\r\nYeah,
+    I need to know all about \nyou\r\nAnd there's no cure and no way to be sure\r\nWhy
+    everything's turned \ninside \nout\r\nInstilling so much doubt\r\nIt makes me
+    so tired, \nI feel so uninspired\r\nMy head is battling with my \nheart"
+  Timings:
+  - StartPosition: 77.43354
+    EndPosition: 79.59256
+    Name: Timing 1
+    Text: Say you'll stay
+    Rectangle:
+      serializedVersion: 2
+      x: 1885.3713
+      y: 21
+      width: 51.73181
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 79.74975
+    EndPosition: 83.522415
+    Name: Timing 2
+    Text: 'Don''t come and go, '
+    Rectangle:
+      serializedVersion: 2
+      x: 1940.8695
+      y: 21
+      width: 90.39624
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 83.65449
+    EndPosition: 87.347466
+    Name: Timing 3
+    Text: like you do
+    Rectangle:
+      serializedVersion: 2
+      x: 2034.4303
+      y: 21
+      width: 88.486694
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 87.51581
+    EndPosition: 90.01976
+    Name: Timing 4
+    Text: Sway my way
+    Rectangle:
+      serializedVersion: 2
+      x: 2126.9507
+      y: 21
+      width: 59.996826
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 90.13982
+    EndPosition: 94.68319
+    Name: Timing 5
+    Text: Yeah, I need to know all about
+    Rectangle:
+      serializedVersion: 2
+      x: 2189.8242
+      y: 21
+      width: 108.86279
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 94.72649
+    EndPosition: 96.779106
+    Name: Timing 6
+    Text: you
+    Rectangle:
+      serializedVersion: 2
+      x: 2299.7246
+      y: 21
+      width: 49.182373
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 97.09349
+    EndPosition: 101.39013
+    Name: Timing 7
+    Text: And there's no cure and no way to be sure
+    Rectangle:
+      serializedVersion: 2
+      x: 2356.44
+      y: 21
+      width: 102.95093
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 101.46494
+    EndPosition: 103.12668
+    Name: Timing 8
+    Text: 'Why everything''s turned '
+    Rectangle:
+      serializedVersion: 2
+      x: 2461.1833
+      y: 21
+      width: 39.81665
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 103.33535
+    EndPosition: 103.96138
+    Name: Timing 9
+    Text: inside
+    Rectangle:
+      serializedVersion: 2
+      x: 2506
+      y: 21
+      width: 15.000244
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 104.10333
+    EndPosition: 104.796074
+    Name: Timing 10
+    Text: out
+    Rectangle:
+      serializedVersion: 2
+      x: 2524.4014
+      y: 21
+      width: 16.598633
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 104.92127
+    EndPosition: 106.00638
+    Name: Timing 11
+    Text: Instilling so much doubt
+    Rectangle:
+      serializedVersion: 2
+      x: 2544
+      y: 21
+      width: 26
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 106.009254
+    EndPosition: 109.13649
+    Name: Timing 12
+    Text: 'It makes me so tired, '
+    Rectangle:
+      serializedVersion: 2
+      x: 2570.0688
+      y: 21
+      width: 74.93115
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 109.2617
+    EndPosition: 111.01456
+    Name: Timing 13
+    Text: I feel so uninspired
+    Rectangle:
+      serializedVersion: 2
+      x: 2648.0002
+      y: 21
+      width: 41.999756
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 111.20302
+    EndPosition: 113.85252
+    Name: Timing 14
+    Text: 'My head is battling with my '
+    Rectangle:
+      serializedVersion: 2
+      x: 2694.5156
+      y: 21
+      width: 63.484375
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 113.97771
+    EndPosition: 114.31161
+    Name: Timing 15
+    Text: heart
+    Rectangle:
+      serializedVersion: 2
+      x: 2760.9995
+      y: 21
+      width: 8.000488
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

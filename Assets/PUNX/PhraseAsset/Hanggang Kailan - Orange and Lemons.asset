@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Hanggang Kailan - Orange and Lemons
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: a848629a8c30d5c4c8910a50e5a9e71a, type: 3}
+  Text: "Umuwi ka na, baby\r\nHindi na ako sanay nang wala ka\r\nMahirap ang \nmag-isa\r\nAt
+    sa gabi'y hinahanap-hanap kita\r\nHanggang kailan ako\nmaghihintay\r\nNa makasama
+    kang muli\r\nSa buhay kong puno ng \npaghihirap\r\nAt tanging ikaw lang ang\r\nPumapawi
+    sa mga luha\r\nAt naglalagay ng \nngiti"
+  Timings:
+  - StartPosition: 67.05476
+    EndPosition: 70.31207
+    Name: Timing 1
+    Text: Umuwi ka na, baby
+    Rectangle:
+      serializedVersion: 2
+      x: 1516.22
+      y: 21
+      width: 72.1958
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 70.66669
+    EndPosition: 74.292
+    Name: Timing 2
+    Text: Hindi na ako sanay nang wala ka
+    Rectangle:
+      serializedVersion: 2
+      x: 1596.2755
+      y: 21
+      width: 80.35242
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 74.50669
+    EndPosition: 76.60978
+    Name: Timing 3
+    Text: Mahirap ang
+    Rectangle:
+      serializedVersion: 2
+      x: 1681.3865
+      y: 21
+      width: 46.613403
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 76.79025
+    EndPosition: 79.85825
+    Name: Timing 4
+    Text: mag-isa
+    Rectangle:
+      serializedVersion: 2
+      x: 1731.9999
+      y: 21
+      width: 68
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 80.75823
+    EndPosition: 87.302666
+    Name: Timing 5
+    Text: At sa gabi'y hinahanap-hanap kita
+    Rectangle:
+      serializedVersion: 2
+      x: 1819.9473
+      y: 21
+      width: 145.05261
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 87.84408
+    EndPosition: 89.468315
+    Name: Timing 6
+    Text: Hanggang kailan ako
+    Rectangle:
+      serializedVersion: 2
+      x: 1976.9999
+      y: 21
+      width: 36
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 89.5944
+    EndPosition: 91.40837
+    Name: Timing 7
+    Text: maghihintay
+    Rectangle:
+      serializedVersion: 2
+      x: 2015.7944
+      y: 21
+      width: 40.205322
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 91.481544
+    EndPosition: 94.47637
+    Name: Timing 8
+    Text: Na makasama kang muli
+    Rectangle:
+      serializedVersion: 2
+      x: 2057.6216
+      y: 21
+      width: 66.378174
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 94.78086
+    EndPosition: 97.769966
+    Name: Timing 9
+    Text: 'Sa buhay kong puno ng '
+    Rectangle:
+      serializedVersion: 2
+      x: 2130.7485
+      y: 21
+      width: 66.251465
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 97.93819
+    EndPosition: 100.52214
+    Name: Timing 10
+    Text: paghihirap
+    Rectangle:
+      serializedVersion: 2
+      x: 2200.7285
+      y: 21
+      width: 57.271484
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 100.71152
+    EndPosition: 103.00361
+    Name: Timing 11
+    Text: At tanging ikaw lang ang
+    Rectangle:
+      serializedVersion: 2
+      x: 2262.1973
+      y: 21
+      width: 50.80249
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 103.33304
+    EndPosition: 107.01908
+    Name: Timing 12
+    Text: Pumapawi sa mga luha
+    Rectangle:
+      serializedVersion: 2
+      x: 2320.3015
+      y: 21
+      width: 81.69824
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 107.08889
+    EndPosition: 109.00426
+    Name: Timing 13
+    Text: At naglalagay ng
+    Rectangle:
+      serializedVersion: 2
+      x: 2403.547
+      y: 21
+      width: 42.452637
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 109.06372
+    EndPosition: 110.267555
+    Name: Timing 14
+    Text: ngiti
+    Rectangle:
+      serializedVersion: 2
+      x: 2447.3179
+      y: 21
+      width: 26.682129
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

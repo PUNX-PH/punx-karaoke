@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Killing Me Softly - Fugees
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 41bd44b55cd72f74e99366dc4aa8d7d0, type: 3}
+  Text: "Strumming my pain with his fingers\r\nSinging \nmy life with his words\r\nKilling
+    me softly with his song\r\nKilling me softly with his song\r\nTelling my whole
+    life with his words\r\nKilling \nme softly with his \nsong"
+  Timings:
+  - StartPosition: 13.437415
+    EndPosition: 17.69073
+    Name: Timing 1
+    Text: Strumming my pain with his fingers
+    Rectangle:
+      serializedVersion: 2
+      x: 254.6538
+      y: 21
+      width: 71.109146
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 17.90434
+    EndPosition: 18.60101
+    Name: Timing 2
+    Text: 'Singing '
+    Rectangle:
+      serializedVersion: 2
+      x: 329.3342
+      y: 21
+      width: 11.647278
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 18.949343
+    EndPosition: 22.432676
+    Name: Timing 3
+    Text: my life with his words
+    Rectangle:
+      serializedVersion: 2
+      x: 346.8051
+      y: 21
+      width: 58.236206
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 22.780998
+    EndPosition: 28.49368
+    Name: Timing 4
+    Text: Killing me softly with his song
+    Rectangle:
+      serializedVersion: 2
+      x: 410.86475
+      y: 21
+      width: 95.5076
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 28.702675
+    EndPosition: 33.091682
+    Name: Timing 5
+    Text: Killing me softly with his song
+    Rectangle:
+      serializedVersion: 2
+      x: 509.86646
+      y: 21
+      width: 73.37775
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 33.300682
+    EndPosition: 37.271683
+    Name: Timing 6
+    Text: 'Telling my whole life with his '
+    Rectangle:
+      serializedVersion: 2
+      x: 586.73834
+      y: 21
+      width: 66.38928
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 37.43864
+    EndPosition: 38.17735
+    Name: Timing 7
+    Text: words
+    Rectangle:
+      serializedVersion: 2
+      x: 655.91895
+      y: 21
+      width: 12.350098
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 38.456017
+    EndPosition: 39.6566
+    Name: Timing 8
+    Text: Killing
+    Rectangle:
+      serializedVersion: 2
+      x: 672.928
+      y: 21
+      width: 20.07196
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 39.8378
+    EndPosition: 45.039852
+    Name: Timing 9
+    Text: me softly with his
+    Rectangle:
+      serializedVersion: 2
+      x: 696.02936
+      y: 21
+      width: 86.97064
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 45.21381
+    EndPosition: 48.030544
+    Name: Timing 10
+    Text: song
+    Rectangle:
+      serializedVersion: 2
+      x: 785.9083
+      y: 21
+      width: 47.091614
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

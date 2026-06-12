@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Bakit Nga Ba Mahal Kita - Roselle Nava
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 837b8b7ee2b1a9e47937360aa78488a4, type: 3}
+  Text: "Tumingin ka man sa iba\r\nMagwawalang-kibo na lang itong puso ko\r\nWalang
+    sumbat na \nmaririnig\r\nPatak ng luha ko ang iniwang saksi\r\nBakit nga ba mahal
+    kita\r\nKahit 'di pinapansin ang \ndamdamin \nko?\r\n'Di mo man ako mahal\r\nIto
+    pa rin ako, \nnagmamahal\nnang tapat sa 'yo"
+  Timings:
+  - StartPosition: 56.891926
+    EndPosition: 62.925938
+    Name: Timing 1
+    Text: Tumingin ka man sa iba
+    Rectangle:
+      serializedVersion: 2
+      x: 571.2217
+      y: 21
+      width: 57.402527
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 63.61554
+    EndPosition: 70.16673
+    Name: Timing 2
+    Text: Magwawalang-kibo na lang itong puso ko
+    Rectangle:
+      serializedVersion: 2
+      x: 635.18445
+      y: 21
+      width: 62.32257
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 70.85632
+    EndPosition: 71.89073
+    Name: Timing 3
+    Text: 'Walang sumbat na '
+    Rectangle:
+      serializedVersion: 2
+      x: 704.0672
+      y: 21
+      width: 9.840454
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 72.11499
+    EndPosition: 75.85593
+    Name: Timing 4
+    Text: maririnig
+    Rectangle:
+      serializedVersion: 2
+      x: 716.0411
+      y: 21
+      width: 35.588074
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 75.86061
+    EndPosition: 83.346115
+    Name: Timing 5
+    Text: Patak ng luha ko ang iniwang saksi
+    Rectangle:
+      serializedVersion: 2
+      x: 751.67377
+      y: 21
+      width: 71.210754
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 84.199196
+    EndPosition: 87.14249
+    Name: Timing 6
+    Text: Bakit nga ba mahal kita
+    Rectangle:
+      serializedVersion: 2
+      x: 831
+      y: 21
+      width: 27.999939
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 87.56296
+    EndPosition: 89.45508
+    Name: Timing 7
+    Text: 'Kahit ''di pinapansin ang '
+    Rectangle:
+      serializedVersion: 2
+      x: 863
+      y: 21
+      width: 18
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 89.770424
+    EndPosition: 91.03184
+    Name: Timing 8
+    Text: damdamin
+    Rectangle:
+      serializedVersion: 2
+      x: 883.99994
+      y: 21
+      width: 12
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 91.45231
+    EndPosition: 91.87278
+    Name: Timing 9
+    Text: ko?
+    Rectangle:
+      serializedVersion: 2
+      x: 900
+      y: 21
+      width: 4
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 92.29325
+    EndPosition: 93.87001
+    Name: Timing 10
+    Text: '''Di mo man ako mahal'
+    Rectangle:
+      serializedVersion: 2
+      x: 908
+      y: 21
+      width: 14.999939
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 94.147575
+    EndPosition: 94.92119
+    Name: Timing 11
+    Text: 'Ito pa rin ako, '
+    Rectangle:
+      serializedVersion: 2
+      x: 925.64044
+      y: 21
+      width: 7.359497
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 95.34165
+    EndPosition: 96.1826
+    Name: Timing 12
+    Text: nagmamahal
+    Rectangle:
+      serializedVersion: 2
+      x: 936.9999
+      y: 21
+      width: 8.000122
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 96.70818
+    EndPosition: 98.17983
+    Name: Timing 13
+    Text: nang tapat sa 'yo
+    Rectangle:
+      serializedVersion: 2
+      x: 949.99994
+      y: 21
+      width: 14
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

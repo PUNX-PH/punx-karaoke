@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Kung Ako Na Lang Sana - Bituin Escalante
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: bd394c7a2e70a85449147a3775fad7f5, type: 3}
+  Text: "Ewan ko bakit ba\r\nHindi ka pa \r\nnadadala\r\nHindi ba't kailan lang nang
+    ika'y iwanan nya?\r\nAt ewan ko nga sa'yo\r\nParang balewala ang puso ko\r\nAno
+    nga bang meron siya\r\nNa sa akin ay 'di mo \r\nmakita\r\nKung ako na lang sana
+    ang 'yong minahal\r\n'Di ka na muling mag-iisa\r\nKung ako na lang sana ang 'yong
+    minahal\r\n'Di ka na muling \r\nluluha"
+  Timings:
+  - StartPosition: 54.08957
+    EndPosition: 57.2536
+    Name: Timing 1
+    Text: Ewan ko bakit ba
+    Rectangle:
+      serializedVersion: 2
+      x: 1433.2396
+      y: 21
+      width: 82.08411
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 57.41755
+    EndPosition: 59.413166
+    Name: Timing 2
+    Text: 'Hindi ka pa '
+    Rectangle:
+      serializedVersion: 2
+      x: 1519.577
+      y: 21
+      width: 51.772095
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 59.56383
+    EndPosition: 60.06606
+    Name: Timing 3
+    Text: nadadala
+    Rectangle:
+      serializedVersion: 2
+      x: 1575.2578
+      y: 21
+      width: 13.029175
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 60.110455
+    EndPosition: 67.03185
+    Name: Timing 4
+    Text: Hindi ba't kailan lang nang ika'y iwanan nya
+    Rectangle:
+      serializedVersion: 2
+      x: 1589.4387
+      y: 21
+      width: 179.56116
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 67.2998
+    EndPosition: 72.00432
+    Name: Timing 5
+    Text: At ewan ko nga sa'yo
+    Rectangle:
+      serializedVersion: 2
+      x: 1775.951
+      y: 21
+      width: 122.04895
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 72.270454
+    EndPosition: 75.85894
+    Name: Timing 6
+    Text: Parang balewala ang puso ko
+    Rectangle:
+      serializedVersion: 2
+      x: 1904.9043
+      y: 21
+      width: 93.0957
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 75.97458
+    EndPosition: 79.13537
+    Name: Timing 7
+    Text: Ano nga bang meron siya
+    Rectangle:
+      serializedVersion: 2
+      x: 2001
+      y: 21
+      width: 82
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 79.19589
+    EndPosition: 83.028534
+    Name: Timing 8
+    Text: 'Na sa akin ay ''di mo '
+    Rectangle:
+      serializedVersion: 2
+      x: 2084.57
+      y: 21
+      width: 99.42993
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 83.22789
+    EndPosition: 84.87875
+    Name: Timing 9
+    Text: makita
+    Rectangle:
+      serializedVersion: 2
+      x: 2189.1719
+      y: 21
+      width: 42.828125
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 85.01991
+    EndPosition: 89.15738
+    Name: Timing 10
+    Text: Kung ako na lang sana ang 'yong minahal
+    Rectangle:
+      serializedVersion: 2
+      x: 2235.662
+      y: 21
+      width: 107.33765
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 89.222565
+    EndPosition: 92.70363
+    Name: Timing 11
+    Text: '''Di ka na muling mag-iisa'
+    Rectangle:
+      serializedVersion: 2
+      x: 2344.691
+      y: 21
+      width: 90.30884
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 92.759705
+    EndPosition: 96.55825
+    Name: Timing 12
+    Text: Kung ako na lang sana ang 'yong minahal
+    Rectangle:
+      serializedVersion: 2
+      x: 2436.4546
+      y: 21
+      width: 98.545166
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 96.75037
+    EndPosition: 98.485565
+    Name: Timing 13
+    Text: '''Di ka na muling '
+    Rectangle:
+      serializedVersion: 2
+      x: 2539.984
+      y: 21
+      width: 45.016113
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 98.53592
+    EndPosition: 100.451416
+    Name: Timing 14
+    Text: luluha
+    Rectangle:
+      serializedVersion: 2
+      x: 2586.3064
+      y: 21
+      width: 49.69336
+      height: 289.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

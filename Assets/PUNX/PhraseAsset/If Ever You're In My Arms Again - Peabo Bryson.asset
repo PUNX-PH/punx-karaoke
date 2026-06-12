@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: If Ever You're In My Arms Again - Peabo Bryson
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: cfdb52bbbb58452408f8fc7bdd3d498d, type: 3}
+  Text: "We had a once in a lifetime\r\nBut I just couldn't see\r\nUntil it was \ngone\r\nA
+    second once in a lifetime\r\nMay be too much to ask\r\nBut I \nswear \nfrom now
+    on\r\nIf ever you're in my arms again\r\nThis time, I'll \nlove"
+  Timings:
+  - StartPosition: 46.47778
+    EndPosition: 49.926674
+    Name: Timing 1
+    Text: We had a once in a lifetime
+    Rectangle:
+      serializedVersion: 2
+      x: 1016.5453
+      y: 21
+      width: 73.20691
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 50.337257
+    EndPosition: 52.554394
+    Name: Timing 2
+    Text: But I just couldn't see
+    Rectangle:
+      serializedVersion: 2
+      x: 1098.4673
+      y: 21
+      width: 47.06128
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 52.718616
+    EndPosition: 54.52518
+    Name: Timing 3
+    Text: Until it was
+    Rectangle:
+      serializedVersion: 2
+      x: 1149.0144
+      y: 21
+      width: 38.346436
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 54.77152
+    EndPosition: 55.839043
+    Name: Timing 4
+    Text: gone
+    Rectangle:
+      serializedVersion: 2
+      x: 1192.5896
+      y: 21
+      width: 22.659546
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 56.249615
+    EndPosition: 59.944855
+    Name: Timing 5
+    Text: A second once in a lifetime
+    Rectangle:
+      serializedVersion: 2
+      x: 1223.964
+      y: 21
+      width: 78.43579
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 60.35542
+    EndPosition: 62.90104
+    Name: Timing 6
+    Text: May be too much to ask
+    Rectangle:
+      serializedVersion: 2
+      x: 1311.1145
+      y: 21
+      width: 54.03369
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 63.83629
+    EndPosition: 64.3074
+    Name: Timing 7
+    Text: 'But I '
+    Rectangle:
+      serializedVersion: 2
+      x: 1385
+      y: 21
+      width: 10
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 64.54296
+    EndPosition: 64.96697
+    Name: Timing 8
+    Text: swear
+    Rectangle:
+      serializedVersion: 2
+      x: 1400
+      y: 21
+      width: 9.000122
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 65.1083
+    EndPosition: 65.86209
+    Name: Timing 9
+    Text: from now on
+    Rectangle:
+      serializedVersion: 2
+      x: 1411.9999
+      y: 21
+      width: 16.000122
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 68.45492
+    EndPosition: 72.64617
+    Name: Timing 10
+    Text: If ever you're in my arms again
+    Rectangle:
+      serializedVersion: 2
+      x: 1483.0359
+      y: 21
+      width: 88.96423
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 72.78748
+    EndPosition: 74.67197
+    Name: Timing 11
+    Text: 'This time, I''ll '
+    Rectangle:
+      serializedVersion: 2
+      x: 1574.9996
+      y: 21
+      width: 40.000366
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 74.72968
+    EndPosition: 75.1902
+    Name: Timing 12
+    Text: love
+    Rectangle:
+      serializedVersion: 2
+      x: 1616.2251
+      y: 21
+      width: 9.775024
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

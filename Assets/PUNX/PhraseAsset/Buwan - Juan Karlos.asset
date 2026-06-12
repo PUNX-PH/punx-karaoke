@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Buwan - Juan Karlos
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 32da7bca5beaf2f4fa0a38de4c049404, type: 3}
+  Text: "Ako'y sa'yo, ikaw ay akin\r\nGanda mo sa \npaningin\r\nAko ngayo'y nag-iisa\r\nSana
+    ay tabihan \r\nSa ilalim ng puting ilaw\r\nSa dilaw na \nbuwan\r\nPakinggan mo
+    ang aking \nsigaw"
+  Timings:
+  - StartPosition: 29.988218
+    EndPosition: 34.10632
+    Name: Timing 1
+    Text: Ako'y sa'yo, ikaw ay akin
+    Rectangle:
+      serializedVersion: 2
+      x: 433.35583
+      y: 21
+      width: 55.39041
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 38.01322
+    EndPosition: 39.808304
+    Name: Timing 2
+    Text: Ganda mo sa
+    Rectangle:
+      serializedVersion: 2
+      x: 541.29596
+      y: 21
+      width: 24.144714
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 40.23066
+    EndPosition: 41.708965
+    Name: Timing 3
+    Text: paningin
+    Rectangle:
+      serializedVersion: 2
+      x: 571.1216
+      y: 21
+      width: 19.883911
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 44.98231
+    EndPosition: 53.112934
+    Name: Timing 4
+    Text: Ako ngayo'y nag-iisa
+    Rectangle:
+      serializedVersion: 2
+      x: 635.0335
+      y: 21
+      width: 109.36078
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 53.640884
+    EndPosition: 57.336628
+    Name: Timing 5
+    Text: 'Sana ay tabihan '
+    Rectangle:
+      serializedVersion: 2
+      x: 751.4955
+      y: 21
+      width: 49.709534
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 61.982677
+    EndPosition: 67.79027
+    Name: Timing 6
+    Text: Sa ilalim ng puting ilaw
+    Rectangle:
+      serializedVersion: 2
+      x: 863.6966
+      y: 21
+      width: 78.11481
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 68.84619
+    EndPosition: 71.06363
+    Name: Timing 7
+    Text: 'Sa dilaw na '
+    Rectangle:
+      serializedVersion: 2
+      x: 956.0141
+      y: 21
+      width: 29.825623
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 71.69718
+    EndPosition: 76.237656
+    Name: Timing 8
+    Text: buwan
+    Rectangle:
+      serializedVersion: 2
+      x: 994.36127
+      y: 21
+      width: 61.071594
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 76.76562
+    EndPosition: 79.93339
+    Name: Timing 9
+    Text: 'Pakinggan mo ang aking '
+    Rectangle:
+      serializedVersion: 2
+      x: 1062.5342
+      y: 21
+      width: 42.608032
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 80.22021
+    EndPosition: 82.30191
+    Name: Timing 10
+    Text: sigaw
+    Rectangle:
+      serializedVersion: 2
+      x: 1109
+      y: 21
+      width: 28
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

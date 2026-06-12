@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: I Wanna Dance With Somebody - Whitney Houston
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 7687073a2420a3448a1581e4a183f4b3, type: 3}
+  Text: "I've done alright up 'til now\r\nIt's the light of day \nthat shows me how\r\nAnd
+    when the night \nfalls\r\nThe loneliness calls\r\n\r\nOh, I wanna dance with
+    somebody\r\nI wanna feel the \nheat \nwith somebody\r\nYeah, I wanna dance with
+    somebody\r\nWith somebody who loves me\r\nOh, I wanna dance with somebody\r\nI
+    wanna feel the heat with somebody\r\nYeah, I wanna dance with somebody\r\nWith
+    somebody who \nloves \nme"
+  Timings:
+  - StartPosition: 58.678185
+    EndPosition: 62.040855
+    Name: Timing 1
+    Text: 
+    Rectangle:
+      serializedVersion: 2
+      x: 942.9095
+      y: 21
+      width: 52.3161
+      height: 262.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 62.71338
+    EndPosition: 64.05844
+    Name: Timing 2
+    Text: It's the light of day
+    Rectangle:
+      serializedVersion: 2
+      x: 1005.68866
+      y: 21
+      width: 20.92633
+      height: 262.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 64.73097
+    EndPosition: 66.74194
+    Name: Timing 3
+    Text: that shows me how
+    Rectangle:
+      serializedVersion: 2
+      x: 1037.0781
+      y: 21
+      width: 31.286499
+      height: 262.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 67.121155
+    EndPosition: 67.87959
+    Name: Timing 4
+    Text: And when the night
+    Rectangle:
+      serializedVersion: 2
+      x: 1074.2644
+      y: 21
+      width: 11.799683
+      height: 262.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 68.006
+    EndPosition: 69.64926
+    Name: Timing 5
+    Text: falls
+    Rectangle:
+      serializedVersion: 2
+      x: 1088.0306
+      y: 21
+      width: 25.565796
+      height: 262.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 70.15488
+    EndPosition: 73.0622
+    Name: Timing 6
+    Text: The loneliness calls
+    Rectangle:
+      serializedVersion: 2
+      x: 1121.4628
+      y: 21
+      width: 45.23181
+      height: 262.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 74.199844
+    EndPosition: 77.10717
+    Name: Timing 7
+    Text: Oh, I wanna dance with somebody
+    Rectangle:
+      serializedVersion: 2
+      x: 1184.3939
+      y: 21
+      width: 45.231934
+      height: 262.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 78.49762
+    EndPosition: 79.00325
+    Name: Timing 8
+    Text: 'I wanna feel the '
+    Rectangle:
+      serializedVersion: 2
+      x: 1251.2583
+      y: 21
+      width: 7.866577
+      height: 262.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 79.440475
+    EndPosition: 80.0074
+    Name: Timing 9
+    Text: 'heat '
+    Rectangle:
+      serializedVersion: 2
+      x: 1265.9271
+      y: 21
+      width: 8.82019
+      height: 262.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 80.21533
+    EndPosition: 81.92078
+    Name: Timing 10
+    Text: with somebody
+    Rectangle:
+      serializedVersion: 2
+      x: 1277.9823
+      y: 21
+      width: 26.533203
+      height: 262.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 82.20424
+    EndPosition: 84.82627
+    Name: Timing 11
+    Text: Yeah, I wanna dance with somebody
+    Rectangle:
+      serializedVersion: 2
+      x: 1308.9255
+      y: 21
+      width: 40.793335
+      height: 262.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 85.96011
+    EndPosition: 87.94436
+    Name: Timing 12
+    Text: 'With somebody who '
+    Rectangle:
+      serializedVersion: 2
+      x: 1367.3591
+      y: 21
+      width: 30.870605
+      height: 262.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 88.28372
+    EndPosition: 88.79475
+    Name: Timing 13
+    Text: loves
+    Rectangle:
+      serializedVersion: 2
+      x: 1403.5095
+      y: 21
+      width: 7.9504395
+      height: 262.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 88.92372
+    EndPosition: 89.43254
+    Name: Timing 14
+    Text: me
+    Rectangle:
+      serializedVersion: 2
+      x: 1413.4666
+      y: 21
+      width: 7.91626
+      height: 262.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

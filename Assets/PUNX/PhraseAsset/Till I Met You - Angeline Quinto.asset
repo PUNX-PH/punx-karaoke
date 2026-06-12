@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Till I Met You - Angeline Quinto
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 4266720ec41f8c04a95dae047bf40acb, type: 3}
+  Text: "I never dream\r\n'Cause I always thought that\ndreaming \nwas for kids\r\nJust
+    a childish thing\r\nAnd I could swear\r\nLove is just a game that children play\r\nAnd
+    no more than a \ngame"
+  Timings:
+  - StartPosition: 23.564627
+    EndPosition: 26.831015
+    Name: Timing 1
+    Text: 
+    Rectangle:
+      serializedVersion: 2
+      x: 284.62595
+      y: 21
+      width: 35.29471
+      height: 305.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 27.496712
+    EndPosition: 28.504187
+    Name: Timing 2
+    Text: '''Cause I always thought that'
+    Rectangle:
+      serializedVersion: 2
+      x: 327.1138
+      y: 21
+      width: 10.8862
+      height: 305.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 28.906462
+    EndPosition: 29.429647
+    Name: Timing 3
+    Text: 'dreaming '
+    Rectangle:
+      serializedVersion: 2
+      x: 342.34677
+      y: 21
+      width: 5.6532288
+      height: 305.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 29.759796
+    EndPosition: 31.7433
+    Name: Timing 4
+    Text: was for kids
+    Rectangle:
+      serializedVersion: 2
+      x: 351.5674
+      y: 21
+      width: 21.432617
+      height: 305.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 32.149117
+    EndPosition: 35.352596
+    Name: Timing 5
+    Text: Just a childish thing
+    Rectangle:
+      serializedVersion: 2
+      x: 377.38504
+      y: 21
+      width: 34.61499
+      height: 305.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 38.03642
+    EndPosition: 40.72027
+    Name: Timing 6
+    Text: And I could swear
+    Rectangle:
+      serializedVersion: 2
+      x: 440.99988
+      y: 21
+      width: 29.000153
+      height: 305.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 41.09045
+    EndPosition: 44.792294
+    Name: Timing 7
+    Text: Love is just a game that children play
+    Rectangle:
+      serializedVersion: 2
+      x: 474
+      y: 21
+      width: 40
+      height: 305.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 45.16247
+    EndPosition: 46.920853
+    Name: Timing 8
+    Text: 'And no more than a '
+    Rectangle:
+      serializedVersion: 2
+      x: 517.99994
+      y: 21
+      width: 19.000061
+      height: 305.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 47.10594
+    EndPosition: 48.031406
+    Name: Timing 9
+    Text: game
+    Rectangle:
+      serializedVersion: 2
+      x: 539
+      y: 21
+      width: 10
+      height: 305.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

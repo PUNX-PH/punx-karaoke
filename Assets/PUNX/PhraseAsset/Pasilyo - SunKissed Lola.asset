@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Pasilyo - SunKissed Lola
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 06b0032d75ffc8043915919735113e3c, type: 3}
+  Text: "Palad ay basang-basa\r\nAng dagitab ay damang-dama\r\nSa'king kalamnang
+    punong-puno\r\nNg \npananabik \nat ng kaba\r\nLalim sa'king bawat paghinga\r\nNakatitig
+    lamang sa iyo\r\nNaglakad ka nang dahan-dahan\r\nSa \npasilyo \ntungo sa altar
+    ng simbahan\r\nHahagkan na't 'di ka bibitawan\r\nWala na 'kong \nmahihiling"
+  Timings:
+  - StartPosition: 27.071995
+    EndPosition: 28.58884
+    Name: Timing 1
+    Text: Palad ay basang-basa
+    Rectangle:
+      serializedVersion: 2
+      x: 462.75284
+      y: 21
+      width: 24.247192
+      height: 331.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 28.754625
+    EndPosition: 31.466492
+    Name: Timing 2
+    Text: Ang dagitab ay damang-dama
+    Rectangle:
+      serializedVersion: 2
+      x: 489.65015
+      y: 21
+      width: 43.349854
+      height: 331.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 31.637506
+    EndPosition: 37.28435
+    Name: Timing 3
+    Text: Sa'king kalamnang punong-puno
+    Rectangle:
+      serializedVersion: 2
+      x: 535.73376
+      y: 21
+      width: 90.266235
+      height: 331.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 37.407597
+    EndPosition: 37.722256
+    Name: Timing 4
+    Text: Ng
+    Rectangle:
+      serializedVersion: 2
+      x: 627.97015
+      y: 21
+      width: 5.029907
+      height: 331.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 37.972473
+    EndPosition: 38.848293
+    Name: Timing 5
+    Text: pananabik
+    Rectangle:
+      serializedVersion: 2
+      x: 636.9998
+      y: 21
+      width: 14.000244
+      height: 331.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 39.035965
+    EndPosition: 39.911774
+    Name: Timing 6
+    Text: at ng kaba
+    Rectangle:
+      serializedVersion: 2
+      x: 654
+      y: 21
+      width: 14.000061
+      height: 331.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 40.161995
+    EndPosition: 42.851982
+    Name: Timing 7
+    Text: Lalim sa'king bawat paghinga
+    Rectangle:
+      serializedVersion: 2
+      x: 671.9999
+      y: 21
+      width: 43.000183
+      height: 331.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 43.03964
+    EndPosition: 50.046112
+    Name: Timing 8
+    Text: Nakatitig lamang sa iyo
+    Rectangle:
+      serializedVersion: 2
+      x: 717.99976
+      y: 21
+      width: 112.000305
+      height: 331.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 50.79678
+    EndPosition: 56.614662
+    Name: Timing 9
+    Text: Naglakad ka nang dahan-dahan
+    Rectangle:
+      serializedVersion: 2
+      x: 841.9997
+      y: 21
+      width: 93.00037
+      height: 331.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 56.739773
+    EndPosition: 56.927452
+    Name: Timing 10
+    Text: 'Sa '
+    Rectangle:
+      serializedVersion: 2
+      x: 937
+      y: 21
+      width: 3.000061
+      height: 331.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 57.145103
+    EndPosition: 58.116047
+    Name: Timing 11
+    Text: pasilyo
+    Rectangle:
+      serializedVersion: 2
+      x: 943.4793
+      y: 21
+      width: 15.520752
+      height: 331.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 58.233086
+    EndPosition: 62.057175
+    Name: Timing 12
+    Text: tungo sa altar ng simbahan
+    Rectangle:
+      serializedVersion: 2
+      x: 960.871
+      y: 21
+      width: 61.12903
+      height: 331.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 62.251816
+    EndPosition: 68.688286
+    Name: Timing 13
+    Text: Hahagkan na't 'di ka bibitawan
+    Rectangle:
+      serializedVersion: 2
+      x: 1025.1115
+      y: 21
+      width: 102.88855
+      height: 331.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 69.00107
+    EndPosition: 70.31478
+    Name: Timing 14
+    Text: Wala na 'kong
+    Rectangle:
+      serializedVersion: 2
+      x: 1133
+      y: 21
+      width: 21
+      height: 331.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 70.37733
+    EndPosition: 72.00384
+    Name: Timing 15
+    Text: mahihiling
+    Rectangle:
+      serializedVersion: 2
+      x: 1154.9998
+      y: 21
+      width: 26.000244
+      height: 331.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

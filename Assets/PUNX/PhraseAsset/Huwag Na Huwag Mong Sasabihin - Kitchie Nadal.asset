@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Huwag Na Huwag Mong Sasabihin - Kitchie Nadal
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: ac79b3e2efd1de3499b0d41d8e11364c, type: 3}
+  Text: "Oh, woah-ooh-oh\r\nHuwag na huwag mong sasabihin\r\nNa hindi mo \nnadama\nitong\r\nPag-ibig
+    kong handang\r\nIbigay kahit pa ang \nkalayaan\nmo\r\nAt sa gabi, sinong duduyan
+    sa'yo?\r\nAt sa umaga, ang hangin na \nhahaplos\nsa'yo oh"
+  Timings:
+  - StartPosition: 137.06897
+    EndPosition: 140.00142
+    Name: Timing 1
+    Text: Oh, woah-ooh-oh
+    Rectangle:
+      serializedVersion: 2
+      x: 2677.4338
+      y: 21
+      width: 56.638916
+      height: 298.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 140.24327
+    EndPosition: 144.14311
+    Name: Timing 2
+    Text: Huwag na huwag mong sasabihin
+    Rectangle:
+      serializedVersion: 2
+      x: 2738.7441
+      y: 21
+      width: 75.323975
+      height: 298.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 145.351
+    EndPosition: 146.51736
+    Name: Timing 3
+    Text: 'Na hindi mo '
+    Rectangle:
+      serializedVersion: 2
+      x: 2837.398
+      y: 21
+      width: 22.527832
+      height: 298.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 146.62845
+    EndPosition: 146.87839
+    Name: Timing 4
+    Text: nadama
+    Rectangle:
+      serializedVersion: 2
+      x: 2862.0713
+      y: 21
+      width: 4.8276367
+      height: 298.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 147.04501
+    EndPosition: 148.04475
+    Name: Timing 5
+    Text: itong
+    Rectangle:
+      serializedVersion: 2
+      x: 2870.1172
+      y: 21
+      width: 19.30957
+      height: 298.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 148.67606
+    EndPosition: 151.01619
+    Name: Timing 6
+    Text: Pag-ibig kong handang
+    Rectangle:
+      serializedVersion: 2
+      x: 2901.62
+      y: 21
+      width: 45.19873
+      height: 298.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 151.4347
+    EndPosition: 153.5329
+    Name: Timing 7
+    Text: 'Ibigay kahit pa ang '
+    Rectangle:
+      serializedVersion: 2
+      x: 2954.902
+      y: 21
+      width: 40.52588
+      height: 298.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 153.68063
+    EndPosition: 154.24205
+    Name: Timing 8
+    Text: kalayaan
+    Rectangle:
+      serializedVersion: 2
+      x: 2998.2815
+      y: 21
+      width: 10.843506
+      height: 298.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 154.30113
+    EndPosition: 158.20152
+    Name: Timing 9
+    Text: mo
+    Rectangle:
+      serializedVersion: 2
+      x: 3010.266
+      y: 21
+      width: 75.33472
+      height: 298.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 160.5408
+    EndPosition: 164.99762
+    Name: Timing 10
+    Text: At sa gabi, sinong duduyan sa'yo?
+    Rectangle:
+      serializedVersion: 2
+      x: 3130.783
+      y: 21
+      width: 86.08179
+      height: 298.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 166.87534
+    EndPosition: 169.98022
+    Name: Timing 11
+    Text: 'At sa umaga, ang hangin na '
+    Rectangle:
+      serializedVersion: 2
+      x: 3253.132
+      y: 21
+      width: 59.969727
+      height: 298.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 170.24054
+    EndPosition: 171.03236
+    Name: Timing 12
+    Text: hahaplos
+    Rectangle:
+      serializedVersion: 2
+      x: 3318.1296
+      y: 21
+      width: 15.293701
+      height: 298.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 171.23032
+    EndPosition: 175.04094
+    Name: Timing 13
+    Text: sa'yo oh
+    Rectangle:
+      serializedVersion: 2
+      x: 3337.2468
+      y: 21
+      width: 73.600586
+      height: 298.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Sundo - Imago
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: cfd24a1f367596a4c812f4a4c1270673, type: 3}
+  Text: "Sinusundo kita\nSinusundo\nAsahan mong (Asahan mo)\nMula ngayon, \npag-ibig
+    \nko'y sa 'yo\nAsahan mong Asahan mo\nMula ngayon, pag-ibig ko'y sa 'yo\nSa akin
+    mo isabit ang pangarap mo\n'Di kukulangin ang\nibibigay"
+  Timings:
+  - StartPosition: 51.84428
+    EndPosition: 56.399906
+    Name: Timing 1
+    Text: Sinusundo kita
+    Rectangle:
+      serializedVersion: 2
+      x: 837.99994
+      y: 21
+      width: 71.00006
+      height: 302.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 56.688457
+    EndPosition: 63.072933
+    Name: Timing 2
+    Text: Sinusundo
+    Rectangle:
+      serializedVersion: 2
+      x: 913.4971
+      y: 21
+      width: 99.50293
+      height: 302.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 63.323128
+    EndPosition: 68.655174
+    Name: Timing 3
+    Text: Asahan mong (Asahan mo)
+    Rectangle:
+      serializedVersion: 2
+      x: 1016.8993
+      y: 21
+      width: 83.10071
+      height: 302.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 68.89692
+    EndPosition: 71.029236
+    Name: Timing 4
+    Text: 'Mula ngayon, '
+    Rectangle:
+      serializedVersion: 2
+      x: 1103.7676
+      y: 21
+      width: 33.23242
+      height: 302.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 71.200905
+    EndPosition: 73.14664
+    Name: Timing 5
+    Text: 'pag-ibig '
+    Rectangle:
+      serializedVersion: 2
+      x: 1139.6755
+      y: 21
+      width: 30.324463
+      height: 302.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 73.44091
+    EndPosition: 75.007385
+    Name: Timing 6
+    Text: ko'y sa 'yo
+    Rectangle:
+      serializedVersion: 2
+      x: 1174.5863
+      y: 21
+      width: 24.413696
+      height: 302.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 75.211586
+    EndPosition: 80.653786
+    Name: Timing 7
+    Text: Asahan mong Asahan mo
+    Rectangle:
+      serializedVersion: 2
+      x: 1202.1825
+      y: 21
+      width: 84.81738
+      height: 302.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 80.90605
+    EndPosition: 87.006
+    Name: Timing 8
+    Text: Mula ngayon, pag-ibig ko'y sa 'yo
+    Rectangle:
+      serializedVersion: 2
+      x: 1290.9315
+      y: 21
+      width: 95.06848
+      height: 302.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 98.99671
+    EndPosition: 103.04693
+    Name: Timing 9
+    Text: Sa akin mo isabit ang pangarap mo
+    Rectangle:
+      serializedVersion: 2
+      x: 1572.8768
+      y: 21
+      width: 63.12317
+      height: 302.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 103.19939
+    EndPosition: 106.960915
+    Name: Timing 10
+    Text: '''Di kukulangin ang'
+    Rectangle:
+      serializedVersion: 2
+      x: 1638.3761
+      y: 21
+      width: 58.6239
+      height: 302.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 107.01805
+    EndPosition: 109.59162
+    Name: Timing 11
+    Text: ibibigay
+    Rectangle:
+      serializedVersion: 2
+      x: 1697.8905
+      y: 21
+      width: 40.109375
+      height: 302.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

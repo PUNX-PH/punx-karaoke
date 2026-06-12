@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Tadhana - Up Dharma Down
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 003c873e727429a4ea798852c23c5598, type: 3}
+  Text: "'Di pa ba sapat ang sakit at lahat\r\nNa hinding-hindi ko ipararanas \r\nsa'yo\r\nIbinubunyag
+    ka ng iyong matang\r\nSumisigaw ng \npagsinta\r\nBa't 'di papatulan\r\nAng pagsuyong
+    nagkulang\r\nTayong umaasang hilaga't \r\nkanluran"
+  Timings:
+  - StartPosition: 58.72593
+    EndPosition: 64.143456
+    Name: Timing 1
+    Text: '''Di pa ba sapat ang sakit at lahat'
+    Rectangle:
+      serializedVersion: 2
+      x: 1503.4331
+      y: 21
+      width: 135.92566
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 64.40814
+    EndPosition: 69.350365
+    Name: Timing 2
+    Text: 'Na hinding-hindi ko ipararanas '
+    Rectangle:
+      serializedVersion: 2
+      x: 1645.9998
+      y: 21
+      width: 124.00037
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 69.54964
+    EndPosition: 69.94821
+    Name: Timing 3
+    Text: sa'yo
+    Rectangle:
+      serializedVersion: 2
+      x: 1774.9999
+      y: 21
+      width: 10.000244
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 70.146965
+    EndPosition: 74.930275
+    Name: Timing 4
+    Text: Ibinubunyag ka ng iyong matang
+    Rectangle:
+      serializedVersion: 2
+      x: 1789.9868
+      y: 21
+      width: 120.01318
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 75.12955
+    EndPosition: 77.95937
+    Name: Timing 5
+    Text: 'Sumisigaw ng '
+    Rectangle:
+      serializedVersion: 2
+      x: 1914.9998
+      y: 21
+      width: 71.00037
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 78.13753
+    EndPosition: 80.82904
+    Name: Timing 6
+    Text: pagsinta
+    Rectangle:
+      serializedVersion: 2
+      x: 1990.47
+      y: 21
+      width: 67.53003
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 80.948616
+    EndPosition: 84.29656
+    Name: Timing 7
+    Text: Ba't 'di papatulan
+    Rectangle:
+      serializedVersion: 2
+      x: 2061.0002
+      y: 21
+      width: 83.999756
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 84.52862
+    EndPosition: 86.32925
+    Name: Timing 8
+    Text: Ang pagsuyong nagkulang
+    Rectangle:
+      serializedVersion: 2
+      x: 2150.8223
+      y: 21
+      width: 45.17798
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 86.369095
+    EndPosition: 90.71346
+    Name: Timing 9
+    Text: 'Tayong umaasang hilaga''t '
+    Rectangle:
+      serializedVersion: 2
+      x: 2197
+      y: 21
+      width: 109
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 90.833015
+    EndPosition: 91.271454
+    Name: Timing 10
+    Text: kanluran
+    Rectangle:
+      serializedVersion: 2
+      x: 2308.9998
+      y: 21
+      width: 11.000244
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

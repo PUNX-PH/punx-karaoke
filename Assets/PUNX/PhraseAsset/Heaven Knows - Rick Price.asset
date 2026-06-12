@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Heaven Knows - Rick Price
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: d8bc0cd4d64e9fc4b991a0fc6d35b963, type: 3}
+  Text: "So tell me where do I start \r\n'Cause it's breaking my \nheart\r\nDon't
+    wanna let her go\r\nMaybe my love will come back someday\r\nOnly heaven \nknows\r\nAnd
+    maybe our hearts will find their way\r\nOnly heaven knows\r\nAnd all I can do
+    is hope and \npray"
+  Timings:
+  - StartPosition: 59.43721
+    EndPosition: 62.420547
+    Name: Timing 1
+    Text: So tell me where do I start
+    Rectangle:
+      serializedVersion: 2
+      x: 1219.0864
+      y: 21
+      width: 59.68396
+      height: 291.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 62.79959
+    EndPosition: 64.3268
+    Name: Timing 2
+    Text: '''Cause it''s breaking my '
+    Rectangle:
+      serializedVersion: 2
+      x: 1286.3535
+      y: 21
+      width: 30.552856
+      height: 291.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 64.531654
+    EndPosition: 65.55597
+    Name: Timing 3
+    Text: heart
+    Rectangle:
+      serializedVersion: 2
+      x: 1321.0046
+      y: 21
+      width: 20.49231
+      height: 291.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 66.22864
+    EndPosition: 72.31643
+    Name: Timing 4
+    Text: Don't wanna let her go
+    Rectangle:
+      serializedVersion: 2
+      x: 1354.9541
+      y: 21
+      width: 121.79089
+      height: 291.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 72.457985
+    EndPosition: 77.82759
+    Name: Timing 5
+    Text: Maybe my love will come back someday
+    Rectangle:
+      serializedVersion: 2
+      x: 1479.5769
+      y: 21
+      width: 107.423096
+      height: 291.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 78.427414
+    EndPosition: 80.976685
+    Name: Timing 6
+    Text: 'Only heaven '
+    Rectangle:
+      serializedVersion: 2
+      x: 1598.9999
+      y: 21
+      width: 51.000122
+      height: 291.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 81.26658
+    EndPosition: 84.225746
+    Name: Timing 7
+    Text: knows
+    Rectangle:
+      serializedVersion: 2
+      x: 1655.7996
+      y: 21
+      width: 59.20044
+      height: 291.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 84.575714
+    EndPosition: 89.97409
+    Name: Timing 8
+    Text: And maybe our hearts will find their way
+    Rectangle:
+      serializedVersion: 2
+      x: 1722.0013
+      y: 21
+      width: 107.998535
+      height: 291.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 91.359726
+    EndPosition: 95.87239
+    Name: Timing 9
+    Text: Only heaven knows
+    Rectangle:
+      serializedVersion: 2
+      x: 1857.7206
+      y: 21
+      width: 90.2793
+      height: 291.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 97.183716
+    EndPosition: 101.17087
+    Name: Timing 10
+    Text: 'And all I can do is hope and '
+    Rectangle:
+      serializedVersion: 2
+      x: 1974.234
+      y: 21
+      width: 79.76599
+      height: 291.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 101.28809
+    EndPosition: 104.219986
+    Name: Timing 11
+    Text: pray
+    Rectangle:
+      serializedVersion: 2
+      x: 2056.3452
+      y: 21
+      width: 58.65454
+      height: 291.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

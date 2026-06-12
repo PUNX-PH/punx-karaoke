@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Para Sa Akin - Sitti
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 360000224dc1e044cb02369d1534a753, type: 3}
+  Text: "Kung ika'y magiging akin\r\n'Di ka na muling luluha pa\r\nPangakong 'di
+    ka \nlolokohin\r\nNg puso kong nagmamahal\r\nKung ako ay papalarin\r\nNa ako'y
+    iyong mahal na rin\r\nPangakong ikaw lang ang iibigin\r\nMagpakailanman\r\n'Di
+    kita pipilitin\r\nSundin mo pa'ng iyong damdamin\r\nHayaan na lang \ntumibok
+    \nang puso mo"
+  Timings:
+  - StartPosition: 21.036009
+    EndPosition: 24.894167
+    Name: Timing 1
+    Text: Kung ika'y magiging akin
+    Rectangle:
+      serializedVersion: 2
+      x: 364.08102
+      y: 21
+      width: 61.27292
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 25.169727
+    EndPosition: 28.10928
+    Name: Timing 2
+    Text: '''Di ka na muling luluha pa'
+    Rectangle:
+      serializedVersion: 2
+      x: 429.73022
+      y: 21
+      width: 46.684174
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 28.568571
+    EndPosition: 29.946487
+    Name: Timing 3
+    Text: 'Pangakong ''di ka '
+    Rectangle:
+      serializedVersion: 2
+      x: 483.7086
+      y: 21
+      width: 21.88324
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 30.222063
+    EndPosition: 32.518578
+    Name: Timing 4
+    Text: lolokohin
+    Rectangle:
+      serializedVersion: 2
+      x: 509.96835
+      y: 21
+      width: 36.471832
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 32.88601
+    EndPosition: 37.019737
+    Name: Timing 5
+    Text: Ng puso kong nagmamahal
+    Rectangle:
+      serializedVersion: 2
+      x: 552.2755
+      y: 21
+      width: 65.64935
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 37.3393
+    EndPosition: 40.73951
+    Name: Timing 6
+    Text: Kung ako ay papalarin
+    Rectangle:
+      serializedVersion: 2
+      x: 622.99994
+      y: 21
+      width: 54.00006
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 41.054333
+    EndPosition: 44.391582
+    Name: Timing 7
+    Text: Na ako'y iyong mahal na rin
+    Rectangle:
+      serializedVersion: 2
+      x: 681.9998
+      y: 21
+      width: 53.000183
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 44.580475
+    EndPosition: 47.98069
+    Name: Timing 8
+    Text: Pangakong ikaw lang ang iibigin
+    Rectangle:
+      serializedVersion: 2
+      x: 737.9999
+      y: 21
+      width: 54.000122
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 48.23254
+    EndPosition: 55.85154
+    Name: Timing 9
+    Text: '''Di kita pipilitin'
+    Rectangle:
+      serializedVersion: 2
+      x: 795.99976
+      y: 21
+      width: 121.000244
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 56.040432
+    EndPosition: 59.881413
+    Name: Timing 10
+    Text: Sundin mo pa'ng iyong damdamin
+    Rectangle:
+      serializedVersion: 2
+      x: 919.9999
+      y: 21
+      width: 61.000122
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 60.133266
+    EndPosition: 61.644485
+    Name: Timing 11
+    Text: 'Hayaan na lang '
+    Rectangle:
+      serializedVersion: 2
+      x: 984.9998
+      y: 21
+      width: 24.000244
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 61.75458
+    EndPosition: 62.52602
+    Name: Timing 12
+    Text: tumibok
+    Rectangle:
+      serializedVersion: 2
+      x: 1010.74854
+      y: 21
+      width: 12.251526
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 62.714897
+    EndPosition: 65.98919
+    Name: Timing 13
+    Text: ang puso mo
+    Rectangle:
+      serializedVersion: 2
+      x: 1025.9996
+      y: 21
+      width: 52.000366
+      height: 244.40002
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

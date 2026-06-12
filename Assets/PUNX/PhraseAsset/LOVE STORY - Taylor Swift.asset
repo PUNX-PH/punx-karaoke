@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: LOVE STORY - Taylor Swift
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: d8b6a666bc13eee4f894a7bfea4a37a6, type: 3}
+  Text: "That you were Romeo, you were throwing pebbles\r\nAnd my daddy said, Stay
+    away from Juliet\r\nAnd I was crying on the \nstaircase\r\nBegging you, Please
+    don't go, and I said \r\nRomeo, take me somewhere we can be alone \r\nI'll be
+    \nwaiting \nall there's left to do is run\r\nYou'll be the prince and I'll be
+    the princess\r\nIt's a love story, baby, just say, \nYes"
+  Timings:
+  - StartPosition: 55.09698
+    EndPosition: 58.85731
+    Name: Timing 1
+    Text: That you were Romeo, you were throwing pebbles
+    Rectangle:
+      serializedVersion: 2
+      x: 1041
+      y: 21
+      width: 69
+      height: 293.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 59.015873
+    EndPosition: 62.34515
+    Name: Timing 2
+    Text: And my daddy said, Stay away from Juliet
+    Rectangle:
+      serializedVersion: 2
+      x: 1112.9095
+      y: 21
+      width: 61.090454
+      height: 293.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 62.56313
+    EndPosition: 64.08907
+    Name: Timing 3
+    Text: 'And I was crying on the '
+    Rectangle:
+      serializedVersion: 2
+      x: 1177.9998
+      y: 21
+      width: 28.000244
+      height: 293.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 64.22304
+    EndPosition: 64.96103
+    Name: Timing 4
+    Text: staircase
+    Rectangle:
+      serializedVersion: 2
+      x: 1208.4583
+      y: 21
+      width: 13.541748
+      height: 293.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 65.11905
+    EndPosition: 70.73777
+    Name: Timing 5
+    Text: 'Begging you, Please don''t go, and I said '
+    Rectangle:
+      serializedVersion: 2
+      x: 1224.8995
+      y: 21
+      width: 103.100464
+      height: 293.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 70.98572
+    EndPosition: 75.206566
+    Name: Timing 6
+    Text: 'Romeo, take me somewhere we can be alone '
+    Rectangle:
+      serializedVersion: 2
+      x: 1332.5497
+      y: 21
+      width: 77.45032
+      height: 293.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 75.37005
+    EndPosition: 76.13302
+    Name: Timing 7
+    Text: 'I''ll be '
+    Rectangle:
+      serializedVersion: 2
+      x: 1412.9999
+      y: 21
+      width: 14
+      height: 293.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 76.269135
+    EndPosition: 77.16847
+    Name: Timing 8
+    Text: 'waiting '
+    Rectangle:
+      serializedVersion: 2
+      x: 1429.4976
+      y: 21
+      width: 16.502441
+      height: 293.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 77.378456
+    EndPosition: 79.07589
+    Name: Timing 9
+    Text: all there's left to do is run
+    Rectangle:
+      serializedVersion: 2
+      x: 1449.853
+      y: 21
+      width: 31.146973
+      height: 293.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 79.31979
+    EndPosition: 83.05421
+    Name: Timing 10
+    Text: You'll be the prince and I'll be the princess
+    Rectangle:
+      serializedVersion: 2
+      x: 1485.4756
+      y: 21
+      width: 68.524414
+      height: 293.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 83.15091
+    EndPosition: 86.86903
+    Name: Timing 11
+    Text: 'It''s a love story, baby, just say, '
+    Rectangle:
+      serializedVersion: 2
+      x: 1555.7744
+      y: 21
+      width: 68.225586
+      height: 293.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 87.19601
+    EndPosition: 88.449455
+    Name: Timing 12
+    Text: Yes
+    Rectangle:
+      serializedVersion: 2
+      x: 1629.9999
+      y: 21
+      width: 23
+      height: 293.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

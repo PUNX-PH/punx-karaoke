@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: With A Smile - Eraserheads
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 5f9744014144f3f4fab096ad5a372c05, type: 3}
+  Text: "Baby, you don't have to worry\r\n'Cause there ain't no need to hurry\r\nNo
+    one ever said that there's an \neasy\nway\r\nWhen they're closing all their doors\r\nAnd
+    they don't want you anymore\r\nIt sounds \nfunny \nbut I'll say it anyway\r\nGirl,
+    I'll stay through the bad times\r\nEven if I have to fetch you everyday\r\nWe'll
+    get by with a \nsmile"
+  Timings:
+  - StartPosition: 29.545979
+    EndPosition: 33.135677
+    Name: Timing 1
+    Text: Baby, you don't have to worry
+    Rectangle:
+      serializedVersion: 2
+      x: 1260.343
+      y: 21
+      width: 149.48096
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 33.30948
+    EndPosition: 36.10408
+    Name: Timing 2
+    Text: '''Cause there ain''t no need to hurry'
+    Rectangle:
+      serializedVersion: 2
+      x: 1417.0614
+      y: 21
+      width: 116.371826
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 36.33882
+    EndPosition: 39.41765
+    Name: Timing 3
+    Text: 'No one ever said that there''s an '
+    Rectangle:
+      serializedVersion: 2
+      x: 1543.2081
+      y: 21
+      width: 128.20752
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 39.467167
+    EndPosition: 39.69378
+    Name: Timing 4
+    Text: easy
+    Rectangle:
+      serializedVersion: 2
+      x: 1673.4777
+      y: 21
+      width: 9.436523
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 39.806393
+    EndPosition: 41.964996
+    Name: Timing 5
+    Text: way
+    Rectangle:
+      serializedVersion: 2
+      x: 1687.6035
+      y: 21
+      width: 89.88782
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 42.057823
+    EndPosition: 45.400185
+    Name: Timing 6
+    Text: When they're closing all their doors
+    Rectangle:
+      serializedVersion: 2
+      x: 1781.3568
+      y: 21
+      width: 139.1814
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 45.45492
+    EndPosition: 49.13711
+    Name: Timing 7
+    Text: And they don't want you anymore
+    Rectangle:
+      serializedVersion: 2
+      x: 1922.8176
+      y: 21
+      width: 153.33228
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 49.358932
+    EndPosition: 49.926277
+    Name: Timing 8
+    Text: 'It sounds '
+    Rectangle:
+      serializedVersion: 2
+      x: 2085.387
+      y: 21
+      width: 23.625244
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 50.019115
+    EndPosition: 50.92434
+    Name: Timing 9
+    Text: funny
+    Rectangle:
+      serializedVersion: 2
+      x: 2112.8782
+      y: 21
+      width: 37.694824
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 51.02177
+    EndPosition: 55.71346
+    Name: Timing 10
+    Text: but I'll say it anyway
+    Rectangle:
+      serializedVersion: 2
+      x: 2154.6304
+      y: 21
+      width: 195.36963
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 55.953606
+    EndPosition: 61.452908
+    Name: Timing 11
+    Text: Girl, I'll stay through the bad times
+    Rectangle:
+      serializedVersion: 2
+      x: 2360
+      y: 21
+      width: 229
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 62.11603
+    EndPosition: 67.21637
+    Name: Timing 12
+    Text: Even if I have to fetch you everyday
+    Rectangle:
+      serializedVersion: 2
+      x: 2616.6135
+      y: 21
+      width: 212.38647
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 69.07449
+    EndPosition: 72.7637
+    Name: Timing 13
+    Text: 'We''ll get by with a '
+    Rectangle:
+      serializedVersion: 2
+      x: 2906.3752
+      y: 21
+      width: 153.62476
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 72.85976
+    EndPosition: 74.39668
+    Name: Timing 14
+    Text: smile
+    Rectangle:
+      serializedVersion: 2
+      x: 3063.9998
+      y: 21
+      width: 64.000244
+      height: 274
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
