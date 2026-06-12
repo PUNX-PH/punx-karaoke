@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Rainbow
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: 6eaf89507a080664b979c016cf4ce61d, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 98.73058
+    EndPosition: 101.242096
+    Name: Timing 1
+    Text: 3 2 1
+    Rectangle:
+      serializedVersion: 2
+      x: 1832.8252
+      y: 21
+      width: 45.86035
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 101.52116
+    EndPosition: 103.69781
+    Name: Timing 2
+    Text: Take a little time, baby
+    Rectangle:
+      serializedVersion: 2
+      x: 1883.7811
+      y: 21
+      width: 39.74585
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 104.22508
+    EndPosition: 106.320946
+    Name: Timing 3
+    Text: See the butterflies' colors
+    Rectangle:
+      serializedVersion: 2
+      x: 1933.155
+      y: 21
+      width: 38.270508
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 106.970406
+    EndPosition: 109.11153
+    Name: Timing 4
+    Text: Listen to the birds that were sent
+    Rectangle:
+      serializedVersion: 2
+      x: 1983.2847
+      y: 21
+      width: 39.097046
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 109.24961
+    EndPosition: 112.85089
+    Name: Timing 8
+    Text: To sing for me and you
+    Rectangle:
+      serializedVersion: 2
+      x: 2024.9031
+      y: 21
+      width: 65.75952
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 114.373085
+    EndPosition: 116.70189
+    Name: Timing 5
+    Text: Can you feel me?
+    Rectangle:
+      serializedVersion: 2
+      x: 2118.458
+      y: 21
+      width: 42.52417
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 117.76231
+    EndPosition: 118.82273
+    Name: Timing 6
+    Text: 'This is such a '
+    Rectangle:
+      serializedVersion: 2
+      x: 2180.3455
+      y: 21
+      width: 19.363281
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 118.97526
+    EndPosition: 120.329636
+    Name: Timing 9
+    Text: 'wonderful '
+    Rectangle:
+      serializedVersion: 2
+      x: 2202.494
+      y: 21
+      width: 24.730957
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 120.39576
+    EndPosition: 122.11561
+    Name: Timing 10
+    Text: place to be
+    Rectangle:
+      serializedVersion: 2
+      x: 2228.4324
+      y: 21
+      width: 31.404541
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 123.34346
+    EndPosition: 124.34807
+    Name: Timing 7
+    Text: "Even if there is \r\n"
+    Rectangle:
+      serializedVersion: 2
+      x: 2282.2576
+      y: 21
+      width: 18.343994
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 124.529274
+    EndPosition: 124.75323
+    Name: Timing 19
+    Text: pain
+    Rectangle:
+      serializedVersion: 2
+      x: 2303.9104
+      y: 21
+      width: 4.0895996
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 124.89195
+    EndPosition: 125.629456
+    Name: Timing 20
+    Text: now
+    Rectangle:
+      serializedVersion: 2
+      x: 2310.533
+      y: 21
+      width: 13.466797
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 125.799164
+    EndPosition: 128.53394
+    Name: Timing 11
+    Text: Everything would be alright
+    Rectangle:
+      serializedVersion: 2
+      x: 2327.0986
+      y: 21
+      width: 49.937256
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 128.8688
+    EndPosition: 131.26869
+    Name: Timing 12
+    Text: For as long as the world still turns
+    Rectangle:
+      serializedVersion: 2
+      x: 2383.1506
+      y: 21
+      width: 43.82202
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 131.39064
+    EndPosition: 134.95226
+    Name: Timing 13
+    Text: There will be night and day
+    Rectangle:
+      serializedVersion: 2
+      x: 2429.1995
+      y: 21
+      width: 65.03516
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 136.04498
+    EndPosition: 136.96147
+    Name: Timing 14
+    Text: Can you
+    Rectangle:
+      serializedVersion: 2
+      x: 2514.188
+      y: 21
+      width: 16.735107
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 137.14914
+    EndPosition: 137.46378
+    Name: Timing 15
+    Text: hear
+    Rectangle:
+      serializedVersion: 2
+      x: 2534.3499
+      y: 21
+      width: 5.7453613
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 137.66113
+    EndPosition: 138.74744
+    Name: Timing 16
+    Text: me
+    Rectangle:
+      serializedVersion: 2
+      x: 2543.699
+      y: 21
+      width: 19.835938
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 139.22299
+    EndPosition: 143.32399
+    Name: Timing 17
+    Text: There's a rainbow always after the rain
+    Rectangle:
+      serializedVersion: 2
+      x: 2572.2185
+      y: 21
+      width: 74.88452
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 144.98299
+    EndPosition: 148.40283
+    Name: Timing 18
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 2677.3962
+      y: 21
+      width: 62.446533
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

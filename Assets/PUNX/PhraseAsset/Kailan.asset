@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Kailan
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: 3038442a85ec4044d8b8289566557982, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 24.578663
+    EndPosition: 28.967728
+    Name: Timing 1
+    Text: 3 2 1
+    Rectangle:
+      serializedVersion: 2
+      x: 561.9997
+      y: 21
+      width: 95.000305
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 29.106329
+    EndPosition: 32.98717
+    Name: Timing 2
+    Text: Bakit kaya nangangamba
+    Rectangle:
+      serializedVersion: 2
+      x: 660
+      y: 21
+      width: 83.99994
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 33.864983
+    EndPosition: 38.34643
+    Name: Timing 3
+    Text: Sa tuwing ika'y nakikita
+    Rectangle:
+      serializedVersion: 2
+      x: 763
+      y: 21
+      width: 96.99994
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 38.41941
+    EndPosition: 40.517857
+    Name: Timing 4
+    Text: Sana nama'y
+    Rectangle:
+      serializedVersion: 2
+      x: 861.5796
+      y: 21
+      width: 45.42041
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 40.64059
+    EndPosition: 44.0291
+    Name: Timing 5
+    Text: magpakilala
+    Rectangle:
+      serializedVersion: 2
+      x: 909.65656
+      y: 21
+      width: 73.343445
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 47.77134
+    EndPosition: 49.942764
+    Name: Timing 6
+    Text: Ilang ulit nang
+    Rectangle:
+      serializedVersion: 2
+      x: 1064
+      y: 21
+      width: 47
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 50.06889
+    EndPosition: 52.021786
+    Name: Timing 7
+    Text: nagkabangga
+    Rectangle:
+      serializedVersion: 2
+      x: 1113.73
+      y: 21
+      width: 42.27002
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 52.899597
+    EndPosition: 56.54944
+    Name: Timing 8
+    Text: Aklat kong dala'y pinulot mo pa
+    Rectangle:
+      serializedVersion: 2
+      x: 1175
+      y: 21
+      width: 79
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 57.381046
+    EndPosition: 58.998066
+    Name: Timing 9
+    Text: '''Di ka pa rin'
+    Rectangle:
+      serializedVersion: 2
+      x: 1272
+      y: 21
+      width: 35
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 59.115078
+    EndPosition: 61.354294
+    Name: Timing 13
+    Text: nagpakilala
+    Rectangle:
+      serializedVersion: 2
+      x: 1309.5327
+      y: 21
+      width: 48.467285
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 64.44973
+    EndPosition: 67.914764
+    Name: Timing 10
+    Text: Bawat araw sinusundan
+    Rectangle:
+      serializedVersion: 2
+      x: 1425
+      y: 21
+      width: 74.99988
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 69.11598
+    EndPosition: 72.95062
+    Name: Timing 11
+    Text: '''Di ka naman tumitingin'
+    Rectangle:
+      serializedVersion: 2
+      x: 1526
+      y: 21
+      width: 83
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 73.089226
+    EndPosition: 80.157906
+    Name: Timing 12
+    Text: Ano'ng aking dapat gawin
+    Rectangle:
+      serializedVersion: 2
+      x: 1612
+      y: 21
+      width: 153
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 81.073586
+    EndPosition: 85.33236
+    Name: Timing 14
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 1784.8197
+      y: 21
+      width: 92.180176
+      height: 242.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

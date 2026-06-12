@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Ikaw
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: 7d95fe7e21f0ddc45b57db363e9c41d8, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 136.33484
+    EndPosition: 139.10126
+    Name: Timing 1
+    Text: 3 2 1
+    Rectangle:
+      serializedVersion: 2
+      x: 1951.9999
+      y: 21
+      width: 39
+      height: 239.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 139.57959
+    EndPosition: 144.70503
+    Name: Timing 2
+    Text: Ikaw ang pag-ibig na hinintay
+    Rectangle:
+      serializedVersion: 2
+      x: 1997.7432
+      y: 21
+      width: 72.25659
+      height: 239.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 145.9109
+    EndPosition: 146.83305
+    Name: Timing 3
+    Text: Puso ay
+    Rectangle:
+      serializedVersion: 2
+      x: 2086.9998
+      y: 21
+      width: 13.000244
+      height: 239.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 147.04585
+    EndPosition: 148.46452
+    Name: Timing 8
+    Text: nalumbay
+    Rectangle:
+      serializedVersion: 2
+      x: 2103
+      y: 21
+      width: 19.999756
+      height: 239.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 148.74826
+    EndPosition: 154.84857
+    Name: Timing 5
+    Text: ng kay tagal ngunit ngayo'y nandito na ikaw
+    Rectangle:
+      serializedVersion: 2
+      x: 2126.9998
+      y: 21
+      width: 86
+      height: 239.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 155.34511
+    EndPosition: 158.679
+    Name: Timing 4
+    Text: Ikaw ang pag-ibig na
+    Rectangle:
+      serializedVersion: 2
+      x: 2219.9998
+      y: 21
+      width: 47.000244
+      height: 239.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 158.92694
+    EndPosition: 161.01982
+    Name: Timing 7
+    Text: binigay
+    Rectangle:
+      serializedVersion: 2
+      x: 2270.4954
+      y: 21
+      width: 29.504639
+      height: 239.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 161.8001
+    EndPosition: 164.35371
+    Name: Timing 8
+    Text: sa akin ng Maykapal
+    Rectangle:
+      serializedVersion: 2
+      x: 2311
+      y: 21
+      width: 36
+      height: 239.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 164.63745
+    EndPosition: 165.55959
+    Name: Timing 9
+    Text: Biyaya
+    Rectangle:
+      serializedVersion: 2
+      x: 2351
+      y: 21
+      width: 13
+      height: 239.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 165.78033
+    EndPosition: 168.326
+    Name: Timing 10
+    Text: ka sa buhay ko
+    Rectangle:
+      serializedVersion: 2
+      x: 2367.112
+      y: 21
+      width: 35.88794
+      height: 239.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 168.50731
+    EndPosition: 172.22737
+    Name: Timing 11
+    Text: ligaya't pag-ibig ko'y ikaw
+    Rectangle:
+      serializedVersion: 2
+      x: 2405.556
+      y: 21
+      width: 52.44409
+      height: 239.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 172.58203
+    EndPosition: 176.2706
+    Name: Timing 12
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 2462.9998
+      y: 21
+      width: 52.000244
+      height: 239.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

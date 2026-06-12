@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a73eab7966fc1a4492d0989e599d3ff, type: 3}
+  m_Name: Rainbow
+  m_EditorClassIdentifier: Assembly-CSharp::KaraokeGame.SongData
+  title: Rainbow
+  artist: South Border
+  audioClip: {fileID: 8300000, guid: 6eaf89507a080664b979c016cf4ce61d, type: 3}
+  lyricsTimingAsset: {fileID: 11400000, guid: a11f280b90ca7494bb3fb773066e62d5, type: 2}
+  missingLineIndices: 070000000a00000010000000
+  correctAnswers:
+  - wonderful
+  - pain
+  - hear
+  contextLineIndices: 06000000090000000f000000

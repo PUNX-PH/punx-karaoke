@@ -1,0 +1,303 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Spolarium
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: 8a670617272f5ad4c9519940781943ae, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 179.49184
+    EndPosition: 183.29544
+    Name: Timing 1
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 3459.9905
+      y: 21
+      width: 72.684814
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 183.65631
+    EndPosition: 186.95462
+    Name: Timing 2
+    Text: Umiyak ang umaga
+    Rectangle:
+      serializedVersion: 2
+      x: 3539.5713
+      y: 21
+      width: 63.02881
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 188.73605
+    EndPosition: 194.17665
+    Name: Timing 3
+    Text: Anong sinulat ni Enteng at Joey diyan
+    Rectangle:
+      serializedVersion: 2
+      x: 3636.6423
+      y: 21
+      width: 103.9668
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 195.15909
+    EndPosition: 197.4025
+    Name: Timing 4
+    Text: Sa pintong salamin
+    Rectangle:
+      serializedVersion: 2
+      x: 3759.383
+      y: 21
+      width: 42.87036
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 198.7431
+    EndPosition: 201.5913
+    Name: Timing 5
+    Text: Di ko na mabasa
+    Rectangle:
+      serializedVersion: 2
+      x: 3827.8716
+      y: 21
+      width: 54.42749
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 201.85274
+    EndPosition: 205.63564
+    Name: Timing 6
+    Text: Pagkat merong nagbura
+    Rectangle:
+      serializedVersion: 2
+      x: 3887.295
+      y: 21
+      width: 72.28931
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 206.95102
+    EndPosition: 224.84627
+    Name: Timing 7
+    Text: ahhh
+    Rectangle:
+      serializedVersion: 2
+      x: 3984.7205
+      y: 21
+      width: 341.9685
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 227.73508
+    EndPosition: 233.07939
+    Name: Timing 8
+    Text: Ewan mo at ewan natin
+    Rectangle:
+      serializedVersion: 2
+      x: 4381.892
+      y: 21
+      width: 102.12695
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 233.20894
+    EndPosition: 234.57195
+    Name: Timing 9
+    Text: 'Sinong '
+    Rectangle:
+      serializedVersion: 2
+      x: 4486.4946
+      y: 21
+      width: 26.046387
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 234.695
+    EndPosition: 236.54597
+    Name: Timing 10
+    Text: nagpakana
+    Rectangle:
+      serializedVersion: 2
+      x: 4514.8926
+      y: 21
+      width: 35.371094
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 238.66444
+    EndPosition: 243.43098
+    Name: Timing 11
+    Text: At bakit ba tumilapon ang
+    Rectangle:
+      serializedVersion: 2
+      x: 4590.7466
+      y: 21
+      width: 91.08594
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 243.91246
+    EndPosition: 245.79019
+    Name: Timing 12
+    Text: spoliarium
+    Rectangle:
+      serializedVersion: 2
+      x: 4691.033
+      y: 21
+      width: 35.882324
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 245.93463
+    EndPosition: 250.12341
+    Name: Timing 13
+    Text: Diyan sa paligid mo
+    Rectangle:
+      serializedVersion: 2
+      x: 4729.676
+      y: 21
+      width: 80.04541
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 250.17308
+    EndPosition: 252.09744
+    Name: Timing 14
+    Text: oh
+    Rectangle:
+      serializedVersion: 2
+      x: 4810.6704
+      y: 21
+      width: 36.773438
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 252.33818
+    EndPosition: 255.13069
+    Name: Timing 15
+    Text: At ngayon
+    Rectangle:
+      serializedVersion: 2
+      x: 4852.044
+      y: 21
+      width: 53.36377
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 255.16676
+    EndPosition: 257.758
+    Name: Timing 16
+    Text: Di pa rin
+    Rectangle:
+      serializedVersion: 2
+      x: 4906.0967
+      y: 21
+      width: 49.51709
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 258.3881
+    EndPosition: 259.95102
+    Name: Timing 17
+    Text: alam
+    Rectangle:
+      serializedVersion: 2
+      x: 4967.655
+      y: 21
+      width: 29.8667
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 260.9639
+    EndPosition: 264.9491
+    Name: Timing 18
+    Text: Kung ba't tayo nandito
+    Rectangle:
+      serializedVersion: 2
+      x: 5016.877
+      y: 21
+      width: 76.154785
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 266.0839
+    EndPosition: 271.4262
+    Name: Timing 19
+    Text: Puwede bang itigil muna
+    Rectangle:
+      serializedVersion: 2
+      x: 5114.7173
+      y: 21
+      width: 102.08838
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 272.2213
+    EndPosition: 276.7303
+    Name: Timing 20
+    Text: Ang pag-ikot ng mundo
+    Rectangle:
+      serializedVersion: 2
+      x: 5232
+      y: 21
+      width: 86.16406
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 277.088
+    EndPosition: 282.89667
+    Name: Timing 21
+    Text: Puwede bang itigil muna
+    Rectangle:
+      serializedVersion: 2
+      x: 5325
+      y: 21
+      width: 111
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 283.27017
+    EndPosition: 288.025
+    Name: Timing 22
+    Text: Ang pag-ikot ng mundo
+    Rectangle:
+      serializedVersion: 2
+      x: 5443.1377
+      y: 21
+      width: 90.86182
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 288.51816
+    EndPosition: 293.25803
+    Name: Timing 23
+    Text: Puwede bang itigil muna
+    Rectangle:
+      serializedVersion: 2
+      x: 5543.424
+      y: 21
+      width: 90.57617
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 294.64084
+    EndPosition: 297.5491
+    Name: Timing 24
+    Text: Ang pag-ikot ng mundo
+    Rectangle:
+      serializedVersion: 2
+      x: 5660.425
+      y: 21
+      width: 55.575195
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 297.64487
+    EndPosition: 300.06094
+    Name: Timing 25
+    Text: Ang pag-ikot ng mundo
+    Rectangle:
+      serializedVersion: 2
+      x: 5717.83
+      y: 21
+      width: 46.16992
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 300.4182
+    EndPosition: 303.30542
+    Name: Timing 26
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 5770.827
+      y: 21
+      width: 55.17285
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

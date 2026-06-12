@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Kahit Maputi Na
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: 5b5c14aa014ae3945bed61af03465110, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 17.706762
+    EndPosition: 21.05669
+    Name: Timing 1
+    Text: 3 2 1
+    Rectangle:
+      serializedVersion: 2
+      x: 178
+      y: 21
+      width: 28
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 21.415611
+    EndPosition: 24.40662
+    Name: Timing 2
+    Text: Kung tayo ay matanda na
+    Rectangle:
+      serializedVersion: 2
+      x: 209
+      y: 21
+      width: 25.000015
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 24.739252
+    EndPosition: 26.440504
+    Name: Timing 8
+    Text: ' sana''y'
+    Rectangle:
+      serializedVersion: 2
+      x: 236.78027
+      y: 21
+      width: 14.219727
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 26.618322
+    EndPosition: 29.551151
+    Name: Timing 9
+    Text: '''di tayo magbago'
+    Rectangle:
+      serializedVersion: 2
+      x: 252.48628
+      y: 21
+      width: 24.513718
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 31.345757
+    EndPosition: 33.260002
+    Name: Timing 3
+    Text: Kailan man
+    Rectangle:
+      serializedVersion: 2
+      x: 292
+      y: 21
+      width: 16.00003
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 33.613968
+    EndPosition: 34.456406
+    Name: Timing 10
+    Text: 'nasaan '
+    Rectangle:
+      serializedVersion: 2
+      x: 310.9586
+      y: 21
+      width: 7.041443
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 34.599636
+    EndPosition: 38.27293
+    Name: Timing 11
+    Text: ma'y ito ang pangarap ko
+    Rectangle:
+      serializedVersion: 2
+      x: 319.1972
+      y: 21
+      width: 30.70282
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 39.634853
+    EndPosition: 42.23302
+    Name: Timing 4
+    Text: Makuha mo pa kayang
+    Rectangle:
+      serializedVersion: 2
+      x: 361.2835
+      y: 21
+      width: 21.716492
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 42.58753
+    EndPosition: 46.061512
+    Name: Timing 12
+    Text: ako'y hagkan at yakapin
+    Rectangle:
+      serializedVersion: 2
+      x: 385.9631
+      y: 21
+      width: 29.036896
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 47.377556
+    EndPosition: 49.531082
+    Name: Timing 5
+    Text: mmm
+    Rectangle:
+      serializedVersion: 2
+      x: 426
+      y: 21
+      width: 18.00003
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 50.690952
+    EndPosition: 54.675613
+    Name: Timing 6
+    Text: Hanggang pagtanda natin?
+    Rectangle:
+      serializedVersion: 2
+      x: 453.69467
+      y: 21
+      width: 33.30533
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 57.3077
+    EndPosition: 60.179066
+    Name: Timing 7
+    Text: Nagtatanong lang sa 'yo
+    Rectangle:
+      serializedVersion: 2
+      x: 509.00003
+      y: 21
+      width: 23.99997
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 60.554104
+    EndPosition: 64.24683
+    Name: Timing 13
+    Text: ako pa kaya'y ibigin mo
+    Rectangle:
+      serializedVersion: 2
+      x: 536.1347
+      y: 21
+      width: 30.865295
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 66.28072
+    EndPosition: 67.1182
+    Name: Timing 14
+    Text: Kung
+    Rectangle:
+      serializedVersion: 2
+      x: 584.00006
+      y: 21
+      width: 6.999939
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 67.46522
+    EndPosition: 69.03245
+    Name: Timing 15
+    Text: maputi
+    Rectangle:
+      serializedVersion: 2
+      x: 593.9005
+      y: 21
+      width: 13.099487
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 69.20624
+    EndPosition: 72.62166
+    Name: Timing 16
+    Text: na ang buhok ko?
+    Rectangle:
+      serializedVersion: 2
+      x: 608.45264
+      y: 21
+      width: 28.547363
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 74.02757
+    EndPosition: 77.646545
+    Name: Timing 17
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 648.7512
+      y: 21
+      width: 30.24878
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

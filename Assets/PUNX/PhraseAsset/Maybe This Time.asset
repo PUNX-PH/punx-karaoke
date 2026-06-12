@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Maybe This Time
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: 7d4ccc01b6d2de84cada75dbd873624c, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 169.86311
+    EndPosition: 172.90536
+    Name: Timing 1
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 1017.0076
+      y: 21
+      width: 17.677307
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 173.19867
+    EndPosition: 176.57172
+    Name: Timing 2
+    Text: She's smilin' like she used to smile way back then
+    Rectangle:
+      serializedVersion: 2
+      x: 1036.3892
+      y: 21
+      width: 19.599487
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 176.77612
+    EndPosition: 180.23807
+    Name: Timing 3
+    Text: She's feelin' like she used to feel way back when they
+    Rectangle:
+      serializedVersion: 2
+      x: 1057.1764
+      y: 21
+      width: 20.115967
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 180.45695
+    EndPosition: 181.55795
+    Name: Timing 6
+    Text: ' tried'
+    Rectangle:
+      serializedVersion: 2
+      x: 1078.5642
+      y: 21
+      width: 6.397461
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 181.70462
+    EndPosition: 183.8311
+    Name: Timing 4
+    Text: but somethin' kept them
+    Rectangle:
+      serializedVersion: 2
+      x: 1085.814
+      y: 21
+      width: 12.356079
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 184.05109
+    EndPosition: 186.47087
+    Name: Timing 5
+    Text: Waiting for this magic
+    Rectangle:
+      serializedVersion: 2
+      x: 1099.4484
+      y: 21
+      width: 14.060425
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 186.76419
+    EndPosition: 190.94383
+    Name: Timing 7
+    Text: moment
+    Rectangle:
+      serializedVersion: 2
+      x: 1115.2131
+      y: 21
+      width: 24.286255
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 191.16382
+    EndPosition: 194.61018
+    Name: Timing 8
+    Text: OHHH!!!!
+    Rectangle:
+      serializedVersion: 2
+      x: 1140.7776
+      y: 21
+      width: 20.025513
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 194.8162
+    EndPosition: 197.02998
+    Name: Timing 9
+    Text: Maybe this time
+    Rectangle:
+      serializedVersion: 2
+      x: 1162.0001
+      y: 21
+      width: 12.863525
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 197.7175
+    EndPosition: 200.25638
+    Name: Timing 10
+    Text: It'll be lovin' they'll find
+    Rectangle:
+      serializedVersion: 2
+      x: 1178.8585
+      y: 21
+      width: 14.752319
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 201.35628
+    EndPosition: 208.24904
+    Name: Timing 11
+    Text: Maybe now they can be more than just friends, oh
+    Rectangle:
+      serializedVersion: 2
+      x: 1200.002
+      y: 21
+      width: 40.051147
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 208.48576
+    EndPosition: 210.37552
+    Name: Timing 12
+    Text: She's back in his
+    Rectangle:
+      serializedVersion: 2
+      x: 1241.4286
+      y: 21
+      width: 10.980591
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 210.47327
+    EndPosition: 211.84206
+    Name: Timing 13
+    Text: life
+    Rectangle:
+      serializedVersion: 2
+      x: 1252.9772
+      y: 21
+      width: 7.953491
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 212.11742
+    EndPosition: 215.58174
+    Name: Timing 14
+    Text: And it feels so right
+    Rectangle:
+      serializedVersion: 2
+      x: 1262.5308
+      y: 21
+      width: 20.12976
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 215.87506
+    EndPosition: 217.85489
+    Name: Timing 15
+    Text: Maybe this time
+    Rectangle:
+      serializedVersion: 2
+      x: 1284.3649
+      y: 21
+      width: 11.504028
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 219.39476
+    EndPosition: 221.81454
+    Name: Timing 16
+    Text: Maybe this time
+    Rectangle:
+      serializedVersion: 2
+      x: 1304.8165
+      y: 21
+      width: 14.060425
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 222.69527
+    EndPosition: 227.82738
+    Name: Timing 17
+    Text: Maybe this time
+    Rectangle:
+      serializedVersion: 2
+      x: 1323.9944
+      y: 21
+      width: 29.820679
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 228.83928
+    EndPosition: 229.66055
+    Name: Timing 18
+    Text: love
+    Rectangle:
+      serializedVersion: 2
+      x: 1359.6948
+      y: 21
+      width: 4.7720947
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 229.88191
+    EndPosition: 230.95699
+    Name: Timing 19
+    Text: won't end
+    Rectangle:
+      serializedVersion: 2
+      x: 1365.7532
+      y: 21
+      width: 6.246826
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 231.47328
+    EndPosition: 235.25946
+    Name: Timing 20
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 1375
+      y: 21
+      width: 22
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Love Will Keep Us Alive
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: 2eb49ae5ae4f91a4fbaeb021175317d4, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 21.970995
+    EndPosition: 26.053444
+    Name: Timing 1
+    Text: 3 2 1
+    Rectangle:
+      serializedVersion: 2
+      x: 527.8289
+      y: 21
+      width: 92.502014
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 26.201897
+    EndPosition: 28.799818
+    Name: Timing 2
+    Text: I was standing
+    Rectangle:
+      serializedVersion: 2
+      x: 623.69464
+      y: 21
+      width: 58.86487
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 29.022497
+    EndPosition: 33.2534
+    Name: Timing 3
+    Text: All alone against the world outside
+    Rectangle:
+      serializedVersion: 2
+      x: 687.6051
+      y: 21
+      width: 95.86572
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 35.480186
+    EndPosition: 38.44924
+    Name: Timing 4
+    Text: You were searching
+    Rectangle:
+      serializedVersion: 2
+      x: 833.9264
+      y: 21
+      width: 67.27423
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 38.746147
+    EndPosition: 41.195614
+    Name: Timing 5
+    Text: For a place to hide
+    Rectangle:
+      serializedVersion: 2
+      x: 907.92804
+      y: 21
+      width: 55.50116
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 41.768845
+    EndPosition: 44.598198
+    Name: Timing 6
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 976.4177
+      y: 21
+      width: 64.108765
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 44.99018
+    EndPosition: 46.144146
+    Name: Timing 7
+    Text: Lost and
+    Rectangle:
+      serializedVersion: 2
+      x: 1049.4082
+      y: 21
+      width: 26.147095
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 46.23753
+    EndPosition: 47.267113
+    Name: Timing 8
+    Text: lonely
+    Rectangle:
+      serializedVersion: 2
+      x: 1077.6713
+      y: 21
+      width: 23.328735
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 48.59112
+    EndPosition: 51.680477
+    Name: Timing 9
+    Text: Now you've given me the will to
+    Rectangle:
+      serializedVersion: 2
+      x: 1131
+      y: 21
+      width: 70
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 51.79966
+    EndPosition: 52.60728
+    Name: Timing 10
+    Text: survive
+    Rectangle:
+      serializedVersion: 2
+      x: 1203.7006
+      y: 21
+      width: 18.299438
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 55.078766
+    EndPosition: 57.461983
+    Name: Timing 11
+    Text: When we're hungry
+    Rectangle:
+      serializedVersion: 2
+      x: 1278
+      y: 21
+      width: 54
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 57.947453
+    EndPosition: 58.432922
+    Name: Timing 12
+    Text: 'Love '
+    Rectangle:
+      serializedVersion: 2
+      x: 1343
+      y: 21
+      width: 11
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 58.502472
+    EndPosition: 60.551334
+    Name: Timing 13
+    Text: will keep us alive
+    Rectangle:
+      serializedVersion: 2
+      x: 1355.5759
+      y: 21
+      width: 46.424072
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 61.5766
+    EndPosition: 63.55242
+    Name: Timing 14
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 1425.231
+      y: 21
+      width: 44.769043
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a73eab7966fc1a4492d0989e599d3ff, type: 3}
+  m_Name: Til They Take My Heart Away
+  m_EditorClassIdentifier: Assembly-CSharp::KaraokeGame.SongData
+  title: 
+  artist: 
+  audioClip: {fileID: 0}
+  lyricsTimingAsset: {fileID: 0}
+  missingLineIndices: 
+  correctAnswers: []
+  contextLineIndices: 

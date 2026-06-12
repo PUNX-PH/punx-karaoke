@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Mahal Ko O Mahal Ako
+  m_EditorClassIdentifier: AudioTextSynchronizer::AudioTextSynchronizer.Core.PhraseAsset
+  Clip: {fileID: 8300000, guid: e8ee26270c2e8c84d9c1291c58729745, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 59.084217
+    EndPosition: 61.89502
+    Name: Timing 1
+    Text: 3 2 1
+    Rectangle:
+      serializedVersion: 2
+      x: 1144.5455
+      y: 21
+      width: 53.022095
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 62.06711
+    EndPosition: 65.85309
+    Name: Timing 2
+    Text: Sino ang iibigin ko?
+    Rectangle:
+      serializedVersion: 2
+      x: 1200.8138
+      y: 21
+      width: 71.41748
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 66.59881
+    EndPosition: 69.63907
+    Name: Timing 3
+    Text: Ikaw ba na pangarap ko
+    Rectangle:
+      serializedVersion: 2
+      x: 1286.2983
+      y: 21
+      width: 57.350464
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 69.79025
+    EndPosition: 73.080864
+    Name: Timing 4
+    Text: O s'ya bang kumakatok sa
+    Rectangle:
+      serializedVersion: 2
+      x: 1346.5007
+      y: 21
+      width: 62.072998
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 73.25295
+    EndPosition: 73.71186
+    Name: Timing 5
+    Text: puso
+    Rectangle:
+      serializedVersion: 2
+      x: 1411.82
+      y: 21
+      width: 8.656738
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 73.941315
+    EndPosition: 75.89167
+    Name: Timing 6
+    Text: ko, ohhh
+    Rectangle:
+      serializedVersion: 2
+      x: 1424.805
+      y: 21
+      width: 36.790894
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 76.19882
+    EndPosition: 79.10401
+    Name: Timing 7
+    Text: ano'ng paiiralin ko
+    Rectangle:
+      serializedVersion: 2
+      x: 1467.3899
+      y: 21
+      width: 54.802612
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 79.40406
+    EndPosition: 81.34118
+    Name: Timing 8
+    Text: isip ba o ang
+    Rectangle:
+      serializedVersion: 2
+      x: 1527.8525
+      y: 21
+      width: 36.541138
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 81.45591
+    EndPosition: 82.02954
+    Name: Timing 10
+    Text: puso
+    Rectangle:
+      serializedVersion: 2
+      x: 1566.5579
+      y: 21
+      width: 10.820801
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 82.2068
+    EndPosition: 82.83263
+    Name: Timing 11
+    Text: ko
+    Rectangle:
+      serializedVersion: 2
+      x: 1580.7225
+      y: 21
+      width: 11.805298
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 83.578354
+    EndPosition: 87.19224
+    Name: Timing 9
+    Text: Nalilito, litong-litong-lito
+    Rectangle:
+      serializedVersion: 2
+      x: 1606.595
+      y: 21
+      width: 68.17114
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 88.21186
+    EndPosition: 91.9534
+    Name: Timing 12
+    Text: Sino'ng pipiliin ko
+    Rectangle:
+      serializedVersion: 2
+      x: 1694
+      y: 21
+      width: 70.5791
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 92.13154
+    EndPosition: 92.469666
+    Name: Timing 13
+    Text: mahal
+    Rectangle:
+      serializedVersion: 2
+      x: 1767.9395
+      y: 21
+      width: 6.378418
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 92.557304
+    EndPosition: 94.99739
+    Name: Timing 14
+    Text: ko o mahal ako?
+    Rectangle:
+      serializedVersion: 2
+      x: 1775.9711
+      y: 21
+      width: 46.02893
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 95.26245
+    EndPosition: 99.23834
+    Name: Timing 15
+    Text: ...
+    Rectangle:
+      serializedVersion: 2
+      x: 1827
+      y: 21
+      width: 75
+      height: 224.40001
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
