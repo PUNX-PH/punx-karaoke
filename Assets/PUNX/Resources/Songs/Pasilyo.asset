@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a73eab7966fc1a4492d0989e599d3ff, type: 3}
+  m_Name: Pasilyo
+  m_EditorClassIdentifier: Assembly-CSharp::KaraokeGame.SongData
+  title: Pasilyo
+  artist: SunKissed Lola
+  audioClip: {fileID: 8300000, guid: 06b0032d75ffc8043915919735113e3c, type: 3}
+  lyricsTimingAsset: {fileID: 11400000, guid: 01c161d897d80b24d80296a8c431c4ee, type: 2}
+  missingLineIndices: 040000000a0000000e000000
+  correctAnswers:
+  - pananabik
+  - pasilyo
+  - mahihiling
+  contextLineIndices: 

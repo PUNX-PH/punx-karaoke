@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a73eab7966fc1a4492d0989e599d3ff, type: 3}
+  m_Name: Killing Me Softly
+  m_EditorClassIdentifier: Assembly-CSharp::KaraokeGame.SongData
+  title: Killing Me Softly
+  artist: Fugees
+  audioClip: {fileID: 8300000, guid: 41bd44b55cd72f74e99366dc4aa8d7d0, type: 3}
+  lyricsTimingAsset: {fileID: 11400000, guid: 58ccf37cb7e6f764399033a0ab40ae8c, type: 2}
+  missingLineIndices: 010000000700000009000000
+  correctAnswers:
+  - Singing
+  - Killing
+  - song
+  contextLineIndices: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a73eab7966fc1a4492d0989e599d3ff, type: 3}
+  m_Name: Buwan
+  m_EditorClassIdentifier: Assembly-CSharp::KaraokeGame.SongData
+  title: Buwan
+  artist: Juan Karlos
+  audioClip: {fileID: 8300000, guid: e6833e5477fe46b439a873d213348876, type: 3}
+  lyricsTimingAsset: {fileID: 11400000, guid: 55bc0c88543dec144baadc349afb3a49, type: 2}
+  missingLineIndices: 020000000700000009000000
+  correctAnswers:
+  - paningin
+  - buwan
+  - sigaw
+  contextLineIndices: 

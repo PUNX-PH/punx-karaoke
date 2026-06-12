@@ -15,7 +15,7 @@ MonoBehaviour:
   Clip: {fileID: 8300000, guid: ac79b3e2efd1de3499b0d41d8e11364c, type: 3}
   Text: "Oh, woah-ooh-oh\r\nHuwag na huwag mong sasabihin\r\nNa hindi mo \nnadama\nitong\r\nPag-ibig
     kong handang\r\nIbigay kahit pa ang \nkalayaan\nmo\r\nAt sa gabi, sinong duduyan
-    sa'yo?\r\nAt sa umaga, ang hangin na \nhahaplos\nsa'yo oh"
+    sa'yo?\r\nAt sa umaga, ang hangin na \nhahaplos"
   Timings:
   - StartPosition: 137.06897
     EndPosition: 140.00142
@@ -23,10 +23,10 @@ MonoBehaviour:
     Text: Oh, woah-ooh-oh
     Rectangle:
       serializedVersion: 2
-      x: 2677.4338
+      x: 3341.2188
       y: 21
-      width: 56.638916
-      height: 298.5
+      width: 70.84009
+      height: 274
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 140.24327
     EndPosition: 144.14311
@@ -34,10 +34,10 @@ MonoBehaviour:
     Text: Huwag na huwag mong sasabihin
     Rectangle:
       serializedVersion: 2
-      x: 2738.7441
+      x: 3417.9014
       y: 21
-      width: 75.323975
-      height: 298.5
+      width: 94.20972
+      height: 274
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 145.351
     EndPosition: 146.51736
@@ -45,10 +45,10 @@ MonoBehaviour:
     Text: 'Na hindi mo '
     Rectangle:
       serializedVersion: 2
-      x: 2837.398
+      x: 3541.2903
       y: 21
-      width: 22.527832
-      height: 298.5
+      width: 28.17627
+      height: 274
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 146.62845
     EndPosition: 146.87839
@@ -56,10 +56,10 @@ MonoBehaviour:
     Text: nadama
     Rectangle:
       serializedVersion: 2
-      x: 2862.0713
+      x: 3572.1501
       y: 21
-      width: 4.8276367
-      height: 298.5
+      width: 6.037842
+      height: 274
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 147.04501
     EndPosition: 148.04475
@@ -67,10 +67,10 @@ MonoBehaviour:
     Text: itong
     Rectangle:
       serializedVersion: 2
-      x: 2870.1172
+      x: 3582.2131
       y: 21
-      width: 19.30957
-      height: 298.5
+      width: 24.151123
+      height: 274
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 148.67606
     EndPosition: 151.01619
@@ -78,10 +78,10 @@ MonoBehaviour:
     Text: Pag-ibig kong handang
     Rectangle:
       serializedVersion: 2
-      x: 2901.62
+      x: 3621.6147
       y: 21
-      width: 45.19873
-      height: 298.5
+      width: 56.531494
+      height: 274
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 151.4347
     EndPosition: 153.5329
@@ -89,10 +89,10 @@ MonoBehaviour:
     Text: 'Ibigay kahit pa ang '
     Rectangle:
       serializedVersion: 2
-      x: 2954.902
+      x: 3688.256
       y: 21
-      width: 40.52588
-      height: 298.5
+      width: 50.68701
+      height: 274
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 153.68063
     EndPosition: 154.24205
@@ -100,10 +100,10 @@ MonoBehaviour:
     Text: kalayaan
     Rectangle:
       serializedVersion: 2
-      x: 2998.2815
+      x: 3742.512
       y: 21
-      width: 10.843506
-      height: 298.5
+      width: 13.562256
+      height: 274
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 154.30113
     EndPosition: 158.20152
@@ -111,10 +111,10 @@ MonoBehaviour:
     Text: mo
     Rectangle:
       serializedVersion: 2
-      x: 3010.266
+      x: 3757.5015
       y: 21
-      width: 75.33472
-      height: 298.5
+      width: 94.223145
+      height: 274
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 160.5408
     EndPosition: 164.99762
@@ -122,10 +122,10 @@ MonoBehaviour:
     Text: At sa gabi, sinong duduyan sa'yo?
     Rectangle:
       serializedVersion: 2
-      x: 3130.783
+      x: 3908.2354
       y: 21
-      width: 86.08179
-      height: 298.5
+      width: 107.66455
+      height: 274
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 166.87534
     EndPosition: 169.98022
@@ -133,10 +133,10 @@ MonoBehaviour:
     Text: 'At sa umaga, ang hangin na '
     Rectangle:
       serializedVersion: 2
-      x: 3253.132
+      x: 4061.2605
       y: 21
-      width: 59.969727
-      height: 298.5
+      width: 75.0061
+      height: 274
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 170.24054
     EndPosition: 171.03236
@@ -144,19 +144,8 @@ MonoBehaviour:
     Text: hahaplos
     Rectangle:
       serializedVersion: 2
-      x: 3318.1296
+      x: 4142.5547
       y: 21
-      width: 15.293701
-      height: 298.5
-    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
-  - StartPosition: 171.23032
-    EndPosition: 175.04094
-    Name: Timing 13
-    Text: sa'yo oh
-    Rectangle:
-      serializedVersion: 2
-      x: 3337.2468
-      y: 21
-      width: 73.600586
-      height: 298.5
+      width: 19.128418
+      height: 274
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}

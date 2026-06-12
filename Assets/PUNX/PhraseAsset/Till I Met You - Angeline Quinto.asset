@@ -13,20 +13,20 @@ MonoBehaviour:
   m_Name: Till I Met You - Angeline Quinto
   m_EditorClassIdentifier: 
   Clip: {fileID: 8300000, guid: 4266720ec41f8c04a95dae047bf40acb, type: 3}
-  Text: "I never dream\r\n'Cause I always thought that\ndreaming \nwas for kids\r\nJust
-    a childish thing\r\nAnd I could swear\r\nLove is just a game that children play\r\nAnd
+  Text: "I never dream \r\n'Cause I always thought that\ndreaming \nwas for kids\r\nJust
+    a childish thing\r\nAnd I could swear\r\nLove is just a game that children \nplay\r\nAnd
     no more than a \ngame"
   Timings:
   - StartPosition: 23.564627
     EndPosition: 26.831015
     Name: Timing 1
-    Text: 
+    Text: I never dream
     Rectangle:
       serializedVersion: 2
-      x: 284.62595
+      x: 620.68384
       y: 21
-      width: 35.29471
-      height: 305.5
+      width: 81.877075
+      height: 290.5
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 27.496712
     EndPosition: 28.504187
@@ -34,10 +34,10 @@ MonoBehaviour:
     Text: '''Cause I always thought that'
     Rectangle:
       serializedVersion: 2
-      x: 327.1138
+      x: 719.2476
       y: 21
-      width: 10.8862
-      height: 305.5
+      width: 25.253967
+      height: 290.5
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 28.906462
     EndPosition: 29.429647
@@ -45,10 +45,10 @@ MonoBehaviour:
     Text: 'dreaming '
     Rectangle:
       serializedVersion: 2
-      x: 342.34677
+      x: 754.5852
       y: 21
-      width: 5.6532288
-      height: 305.5
+      width: 13.114441
+      height: 290.5
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 29.759796
     EndPosition: 31.7433
@@ -56,10 +56,10 @@ MonoBehaviour:
     Text: was for kids
     Rectangle:
       serializedVersion: 2
-      x: 351.5674
+      x: 775.97534
       y: 21
-      width: 21.432617
-      height: 305.5
+      width: 49.719604
+      height: 290.5
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 32.149117
     EndPosition: 35.352596
@@ -67,10 +67,10 @@ MonoBehaviour:
     Text: Just a childish thing
     Rectangle:
       serializedVersion: 2
-      x: 377.38504
+      x: 835.8674
       y: 21
-      width: 34.61499
-      height: 305.5
+      width: 80.30017
+      height: 290.5
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 38.03642
     EndPosition: 40.72027
@@ -78,41 +78,52 @@ MonoBehaviour:
     Text: And I could swear
     Rectangle:
       serializedVersion: 2
-      x: 440.99988
+      x: 983.4417
       y: 21
-      width: 29.000153
-      height: 305.5
+      width: 67.27484
+      height: 290.5
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
   - StartPosition: 41.09045
-    EndPosition: 44.792294
+    EndPosition: 44.042763
     Name: Timing 7
-    Text: Love is just a game that children play
+    Text: Love is just a game that children
     Rectangle:
       serializedVersion: 2
-      x: 474
+      x: 1059.9957
       y: 21
-      width: 40
-      height: 305.5
+      width: 74.00427
+      height: 290.5
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
-  - StartPosition: 45.16247
-    EndPosition: 46.920853
+  - StartPosition: 44.169205
+    EndPosition: 46.23692
     Name: Timing 8
+    Text: play
+    Rectangle:
+      serializedVersion: 2
+      x: 1137.1694
+      y: 21
+      width: 51.830566
+      height: 290.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 46.396496
+    EndPosition: 48.43108
+    Name: Timing 9
     Text: 'And no more than a '
     Rectangle:
       serializedVersion: 2
-      x: 517.99994
+      x: 1193
       y: 21
-      width: 19.000061
-      height: 305.5
+      width: 51
+      height: 290.5
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}
-  - StartPosition: 47.10594
-    EndPosition: 48.031406
-    Name: Timing 9
+  - StartPosition: 48.63055
+    EndPosition: 50.824707
+    Name: Timing 10
     Text: game
     Rectangle:
       serializedVersion: 2
-      x: 539
+      x: 1249
       y: 21
-      width: 10
-      height: 305.5
+      width: 55
+      height: 290.5
     Color: {r: 1, g: 1, b: 1, a: 0.16078432}

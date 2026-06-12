@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a73eab7966fc1a4492d0989e599d3ff, type: 3}
+  m_Name: Bakit Nga Ba Mahal Kita
+  m_EditorClassIdentifier: Assembly-CSharp::KaraokeGame.SongData
+  title: Bakit Nga Ba Mahal Kita
+  artist: Roselle Nava
+  audioClip: {fileID: 8300000, guid: 61d0b48015be527449455e7d0870c446, type: 3}
+  lyricsTimingAsset: {fileID: 11400000, guid: e74c4e6b4e5183b408b331ce61d33213, type: 2}
+  missingLineIndices: 03000000070000000b000000
+  correctAnswers:
+  - maririnig
+  - damdamin
+  - nagmamahal
+  contextLineIndices: 
